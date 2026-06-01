@@ -20,12 +20,6 @@ class PftAppBar extends StatelessWidget implements PreferredSizeWidget {
   Widget build(BuildContext context) {
     return Container(
       height: 56,
-      decoration: const BoxDecoration(
-        color: AppColors.surface,
-        border: Border(
-          bottom: BorderSide(color: AppColors.outlineVariant, width: 1),
-        ),
-      ),
       padding: const EdgeInsets.symmetric(horizontal: 16),
       child: Row(
         children: [

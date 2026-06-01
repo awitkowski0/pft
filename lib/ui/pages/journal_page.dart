@@ -377,21 +377,61 @@ class _JournalPageState extends ConsumerState<JournalPage> {
                       navigator.pushNamedAndRemoveUntil('/', (route) => false);
                     },
               child: Container(
-                color: _saving
-                    ? AppColors.secondaryContainer
-                    : AppColors.primary,
-                padding: const EdgeInsets.symmetric(vertical: 16),
-                child: Text(
-                  _saving ? 'LOG COMMITTED' : 'SAVE JOURNAL',
-                  textAlign: TextAlign.center,
-                  style: TextStyle(
-                    fontFamily: 'Inter',
-                    fontSize: 12,
-                    fontWeight: FontWeight.w700,
-                    letterSpacing: 0.1,
-                    color:
-                        _saving ? AppColors.secondary : AppColors.onPrimary,
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  border: Border(
+                    left: BorderSide(
+                      color: _saving
+                          ? AppColors.secondary
+                          : AppColors.primary,
+                      width: 4,
+                    ),
                   ),
+                ),
+                child: Row(
+                  children: [
+                    Icon(
+                      _saving ? Icons.check_circle : Icons.edit_note,
+                      color: _saving
+                          ? AppColors.secondary
+                          : AppColors.primary,
+                      size: 20,
+                    ),
+                    const SizedBox(width: 12),
+                    Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          _saving ? 'LOG COMMITTED' : 'SAVE JOURNAL',
+                          style: TextStyle(
+                            fontFamily: 'Inter',
+                            fontSize: 14,
+                            fontWeight: FontWeight.w700,
+                            letterSpacing: 0.1,
+                            color: _saving
+                                ? AppColors.secondary
+                                : AppColors.primary,
+                          ),
+                        ),
+                        if (!_saving)
+                          Text(
+                            'Submit today\'s observations',
+                            style: TextStyle(
+                              fontFamily: 'Inter',
+                              fontSize: 12,
+                              color: AppColors.onSurfaceVariant,
+                            ),
+                          ),
+                      ],
+                    ),
+                    const Spacer(),
+                    if (!_saving)
+                      Icon(
+                        Icons.arrow_forward,
+                        color: AppColors.primary,
+                        size: 18,
+                      ),
+                  ],
                 ),
               ),
             ),

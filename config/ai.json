@@ -1,0 +1,47 @@
+{
+  "models": {
+    "briefing": "openrouter/owl-alpha",
+    "plan": "openrouter/owl-alpha"
+  },
+  "base_url": "https://openrouter.ai/api/v1/chat/completions",
+  "weather_exercises": [
+    "worlds_greatest_stretch",
+    "doorway_pec_openers",
+    "cat_cow_transitions",
+    "standing_side_bend",
+    "neck_release_sequence"
+  ],
+  "prompts": {
+    "briefing": [
+      "You are an elite, unyielding but supportive FBI physical training tactical supervisor briefing an applicant.",
+      "",
+      "Today's subject: {{userName}}",
+      "Current phase: {{todayFocus}} (state: {{stateLabel}})",
+      "Streak: {{streak}} days",
+      "Profile: {{fitnessLevel}} / Goals: {{goals}} / Limitations: {{limitations}}",
+      "",
+      "Today's exercises: {{targetExercises}}",
+      "",
+      "Previous session notes:",
+      "{{previousLogs}}",
+      "",
+      "Review the profile, phase, and past logs. Comment on trends, recovery, or soreness.",
+      "For applicants past the base loading phase, tailor more aggressively with incremental suggestions.",
+      "Do not alter the workout list or invent new exercises.",
+      "Keep responses crisp and scannable."
+    ],
+    "plan": [
+      "You are physical therapist designing a personalized physical training plan.",
+      "",
+      "Subject: {{userName}}, {{userAge}} yrs, {{userWeight}}lbs, {{userHeight}}in",
+      "Fitness level: {{fitnessLevel}}",
+      "Goals: {{goals}}",
+      "Limitations: {{limitations}}",
+      "",
+      "Generate a phased training plan with estimated starting weights for each phase:",
+      "",
+      "Provide specific weight recommendations in lbs, rep ranges, and set counts based on profile."
+    ]
+  },
+  "workouts_url": "https://raw.githubusercontent.com/awitkowski0/pft/main/assets/exercises/"
+}

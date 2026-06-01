@@ -4,6 +4,16 @@ import 'package:http/http.dart' as http;
 import 'package:isar/isar.dart';
 import 'schemas/workout_configuration.dart';
 
+const _categories = [
+  'mobility',
+  'walking',
+  'endurance',
+  'strength_machine',
+  'bodyweight',
+  'strength_weights',
+  'cooldown',
+];
+
 class ExerciseLoader {
   static Future<void> loadFromAssets(Isar isar, {String? remoteUrl}) async {
     final existing = await isar.workoutConfigurations.where().anyId().findAll();
@@ -11,9 +21,9 @@ class ExerciseLoader {
 
     List<WorkoutConfiguration> allExercises = [];
 
-    // Try remote URL first if provided
+    // Try remote directory (fetches each category file from the base URL)
     if (remoteUrl != null && remoteUrl.isNotEmpty) {
-      allExercises = await _fetchFromUrl(remoteUrl);
+      allExercises = await _fetchFromRemoteDir(remoteUrl);
     }
 
     // Fall back to local assets
@@ -28,31 +38,30 @@ class ExerciseLoader {
     }
   }
 
-  static Future<List<WorkoutConfiguration>> _fetchFromUrl(String url) async {
-    try {
-      final response = await http.get(Uri.parse(url));
-      if (response.statusCode == 200) {
-        final List<dynamic> items = jsonDecode(response.body) as List<dynamic>;
-        return items.map((item) => _parseItem(item)).toList();
-      }
-    } catch (_) {}
-    return [];
+  static Future<List<WorkoutConfiguration>> _fetchFromRemoteDir(String baseUrl) async {
+    final allExercises = <WorkoutConfiguration>[];
+    final base = baseUrl.endsWith('/') ? baseUrl : '$baseUrl/';
+
+    for (final cat in _categories) {
+      try {
+        final url = Uri.parse('$base$cat.json');
+        final response = await http.get(url);
+        if (response.statusCode == 200) {
+          final List<dynamic> items = jsonDecode(response.body) as List<dynamic>;
+          for (final item in items) {
+            allExercises.add(_parseItem(item));
+          }
+        }
+      } catch (_) {}
+    }
+
+    return allExercises;
   }
 
   static Future<List<WorkoutConfiguration>> _loadFromLocalAssets() async {
-    const categories = [
-      'mobility',
-      'walking',
-      'endurance',
-      'strength_machine',
-      'bodyweight',
-      'strength_weights',
-      'cooldown',
-    ];
-
     final allExercises = <WorkoutConfiguration>[];
 
-    for (final cat in categories) {
+    for (final cat in _categories) {
       try {
         final jsonString =
             await rootBundle.loadString('assets/exercises/$cat.json');
