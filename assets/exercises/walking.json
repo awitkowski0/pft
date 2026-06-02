@@ -88,5 +88,20 @@
     "duration": null,
     "distance": "3 miles",
     "notes": "Wear moisture-wicking socks and consider carrying a small water bottle to stay hydrated without relying on water fountains. Gradually increase distance by no more than 10% per week."
+  },
+  {
+    "exerciseId": "rucking",
+    "name": "Rucking (Weighted Walk)",
+    "category": "walking",
+    "progressionTier": 3,
+    "instructions": "Load a sturdy backpack or specialized rucksack with a moderate amount of weight (e.g., 10-20% of your body weight). Secure the pack so it rides high and tight on your back. Go for a brisk walk over varied terrain. Maintain an upright posture with your shoulders back and chest proud, resisting the urge to lean excessively forward.",
+    "feelRight": "You should feel elevated cardiovascular output compared to a regular walk, along with muscular engagement in your upper back, core, glutes, and legs to support the load. Your posture should feel challenged but maintainable.",
+    "feelWrong": "Slouching or leaning forward excessively places severe strain on the lower back and neck. A pack that sits too low or sways loosely will cause friction and alter your natural gait mechanics.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "Continuous",
+    "duration": "30-60 minutes",
+    "distance": "2-4 miles",
+    "notes": "Start with a lighter weight (10-15 lbs) and gradually increase as your strength and conditioning improve. Wear supportive footwear, and consider a pack with a hip belt to transfer some load off the shoulders."
   }
 ]

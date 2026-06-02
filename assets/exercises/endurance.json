@@ -118,5 +118,20 @@
     "duration": "12 minutes",
     "distance": null,
     "notes": "The Tabata protocol (20s on / 10s off) is ideal for the Assault Bike. Focus on driving your heart rate to 90%+ max during work intervals. If you can speak during the sprint, you aren't going hard enough."
+  },
+  {
+    "exerciseId": "battle_ropes",
+    "name": "Battle Ropes",
+    "category": "endurance",
+    "progressionTier": 2,
+    "instructions": "Stand with feet shoulder-width apart in an athletic quarter-squat position, holding one end of the rope in each hand. Keep your core braced and your chest up. Vigorously raise and lower your arms in an alternating or simultaneous motion to create waves that travel down the ropes to the anchor point. Maintain a fast, continuous pace for the duration of the interval.",
+    "feelRight": "You should feel an intense cardiovascular demand along with significant fatigue in the shoulders, arms, and core. The movement should feel rhythmic and powerful.",
+    "feelWrong": "Standing completely upright or locking your knees places unnecessary stress on the lower back. Using only your arms without engaging your core and legs will lead to premature fatigue and poor wave generation.",
+    "restTime": "60 seconds",
+    "sets": "4",
+    "reps": "30-second intervals",
+    "duration": "30 seconds per set",
+    "distance": null,
+    "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
   }
 ]

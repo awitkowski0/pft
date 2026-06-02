@@ -253,5 +253,20 @@
     "duration": null,
     "distance": null,
     "notes": "Use a pad or folded mat under the bar to protect your hip bones. Tuck your chin and keep your ribs down to avoid overarching."
+  },
+  {
+    "exerciseId": "dumbbell_skullcrusher",
+    "name": "Dumbbell Skullcrusher",
+    "category": "strength_weights",
+    "progressionTier": 2,
+    "instructions": "Lie flat on a bench holding a pair of dumbbells straight up over your chest, palms facing each other. Keeping your upper arms strictly stationary and perpendicular to the floor, bend your elbows to lower the dumbbells down toward the sides of your head. Pause when you feel a stretch in your triceps, then contract your triceps to extend your arms back to the starting position.",
+    "feelRight": "You should feel a strong stretch and subsequent contraction entirely in the back of your upper arms (triceps). Your elbows should remain pointed at the ceiling, functioning purely as a hinge.",
+    "feelWrong": "Allowing your upper arms to move back and forth turns the movement into a pullover, engaging the lats and chest rather than isolating the triceps. Flaring your elbows excessively outward can place undue stress on the elbow joint.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "10-15",
+    "duration": null,
+    "distance": null,
+    "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
   }
 ]
