@@ -178,5 +178,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your toes pointing forward or slightly inward to maximize glute medius activation. Perform these slowly with a focus on the mind-muscle connection."
+  },
+  {
+    "exerciseId": "cable_woodchopper",
+    "name": "Cable Woodchopper",
+    "category": "strength_machine",
+    "progressionTier": 2,
+    "instructions": "Set a cable pulley to the highest position with a standard handle attachment. Stand sideways to the machine, feet shoulder-width apart. Grasp the handle with both hands over one shoulder. Pull the handle diagonally down and across your body toward the opposite hip, rotating your torso and pivoting your back foot slightly. Control the weight as you slowly return to the starting position.",
+    "feelRight": "You should feel strong activation in your obliques, core, and shoulders. The movement should feel controlled and deliberate, driven primarily by torso rotation rather than just arm movement.",
+    "feelWrong": "Pulling the weight using only your arms while keeping your torso stationary defeats the purpose of the exercise. Twisting your lower back excessively without pivoting your hips can lead to strain.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "10-15 per side",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
   }
 ]

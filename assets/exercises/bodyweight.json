@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "For a slower, more controlled variation, pause for one second with each knee at the chest. To increase difficulty, float your hands on a pair of sliders or a towel on a smooth surface."
+  },
+  {
+    "exerciseId": "bulgarian_split_squat",
+    "name": "Bulgarian Split Squat",
+    "category": "bodyweight",
+    "progressionTier": 3,
+    "instructions": "Stand a couple of feet in front of a bench or chair, facing away. Extend one leg back and place the top of that foot on the bench. Keeping your torso upright and core engaged, lower your body until your front thigh is parallel to the floor, ensuring your front knee tracks over your toes without collapsing inward. Drive through the heel of your front foot to return to the starting position.",
+    "feelRight": "You should feel a significant load and burn in the quadriceps and glutes of your front leg, along with a stretch in the hip flexor of your rear elevated leg. The core should feel engaged to maintain balance.",
+    "feelWrong": "Leaning too far forward might shift excessive load to your lower back, while letting your front heel lift off the ground puts undue stress on the knee joint. Avoid pushing off with your back leg; it is primarily for balance.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "10-12 per leg",
+    "duration": null,
+    "distance": null,
+    "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
   }
 ]

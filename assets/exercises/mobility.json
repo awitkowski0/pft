@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "This is invaluable for anyone doing heavy pressing, handstands, or prolonged typing. Do it as part of your warm-up before push days and as a cool-down after any session involving wrist loading."
+  },
+  {
+    "exerciseId": "inchworm_to_cobra",
+    "name": "Inchworm to Cobra",
+    "category": "mobility",
+    "progressionTier": 2,
+    "instructions": "Start from a standing position. Hinge at the hips, keeping your legs straight or slightly bent, and walk your hands out to a high plank position. From the high plank, lower your hips toward the floor while pressing through your hands and keeping your chest proud, moving into a Cobra pose. Pause to stretch the abdominals and chest, then reverse the movement by pushing your hips up into a downward dog and walking your hands back to your feet.",
+    "feelRight": "You should feel a stretch in your hamstrings during the walkout and walk-back, and a deep stretch in the front of your core and chest during the Cobra pose. Your shoulders should feel active and engaged throughout.",
+    "feelWrong": "Allowing your shoulders to shrug up toward your ears in the Cobra pose causes shoulder impingement. Bending your knees excessively during the walkout reduces the hamstring stretch.",
+    "restTime": "30 seconds",
+    "sets": "2",
+    "reps": "5-8 repetitions",
+    "duration": null,
+    "distance": null,
+    "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
   }
 ]

@@ -148,5 +148,20 @@
     "duration": "null",
     "distance": "null",
     "notes": "Pedal your heels gently at first before settling into a static hold on one side. Keep your arms actively pressing into the floor to distribute weight evenly."
+  },
+  {
+    "exerciseId": "kneeling_hip_flexor_stretch",
+    "name": "Kneeling Hip Flexor Stretch",
+    "category": "cooldown",
+    "progressionTier": 1,
+    "instructions": "Start in a half-kneeling position with your right knee on the floor and your left foot flat in front of you, both knees bent at 90 degrees. Engage your core and tuck your pelvis slightly under (posterior pelvic tilt). Gently lean forward into your left leg while keeping your torso upright and your right glute squeezed until you feel a stretch in the front of your right hip.",
+    "feelRight": "You should feel a moderate, pulling stretch in the front of the hip and upper thigh of the kneeling leg. The core should be active to maintain the pelvic tilt.",
+    "feelWrong": "Arching your lower back aggressively shifts the stretch away from the hip flexor and compresses the lumbar spine. Leaning too far forward without engaging the glute reduces the effectiveness of the stretch.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "30-60 second hold per side",
+    "duration": "30-60 seconds",
+    "distance": null,
+    "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
   }
 ]
