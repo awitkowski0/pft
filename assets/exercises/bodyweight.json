@@ -87,7 +87,7 @@
     "reps": "1 round",
     "duration": null,
     "distance": "20 yards",
-    "notes": "Keep your back as flat as a tabletop throughout — if your hips rise, you're losing core tension. For variety, crawl backward or laterally to challenge the stabilizers differently."
+    "notes": "Keep your back as flat as a tabletop throughout \u2014 if your hips rise, you're losing core tension. For variety, crawl backward or laterally to challenge the stabilizers differently."
   },
   {
     "exerciseId": "assisted_pull_up",
@@ -147,7 +147,7 @@
     "reps": "10-12",
     "duration": null,
     "distance": null,
-    "notes": "The lower the bar height, the harder the exercise — start with the bar at hip height and lower it as you get stronger. Keep your body rigid like a plank throughout the entire rep."
+    "notes": "The lower the bar height, the harder the exercise \u2014 start with the bar at hip height and lower it as you get stronger. Keep your body rigid like a plank throughout the entire rep."
   },
   {
     "exerciseId": "burpee",
@@ -171,7 +171,7 @@
     "progressionTier": 1,
     "instructions": "Lie on your back with your arms extended straight up toward the ceiling and your knees lifted to a tabletop position (hips and knees at 90 degrees). Press your lower back into the floor by engaging your core. Slowly extend your right arm overhead and your left leg toward the ground simultaneously, keeping your lower back pressed flat. Return to the starting position, then repeat with the left arm and right leg, alternating in a slow, controlled rhythm.",
     "feelRight": "You should feel your deep core muscles (transverse abdominis) working hard to maintain the flat back position as your limbs move. The movement should feel challenging but controlled, with no arching of the lower back.",
-    "feelWrong": "Letting your lower back arch off the floor as your limbs extend is the most common mistake — if you feel your back lifting, reduce the range of motion. Rushing through the reps to make them easier negates the core stability benefit.",
+    "feelWrong": "Letting your lower back arch off the floor as your limbs extend is the most common mistake \u2014 if you feel your back lifting, reduce the range of motion. Rushing through the reps to make them easier negates the core stability benefit.",
     "restTime": "45 seconds",
     "sets": "3",
     "reps": "8 per side",
@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "superman_hold",
+    "name": "Superman Hold",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Lie face down on the floor with your arms extended straight in front of you and legs straight behind you. Engage your core and squeeze your glutes to simultaneously lift your arms, chest, and legs a few inches off the floor. Keep your gaze down to maintain a neutral neck. Hold this position for the prescribed duration, then lower slowly back to the start.",
+    "feelRight": "You should feel a strong contraction in your lower back (erector spinae), glutes, and upper back. Your core should feel engaged.",
+    "feelWrong": "Looking up excessively strains the neck. Lifting too high and feeling sharp pain in the lower back indicates overextension rather than controlled muscle engagement.",
+    "restTime": "45 seconds",
+    "sets": "3",
+    "reps": "30-second hold",
+    "duration": null,
+    "distance": null,
+    "notes": "If it's too difficult to lift both arms and legs, start by alternating lifting opposite arm and leg."
   }
 ]

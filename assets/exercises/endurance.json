@@ -4,7 +4,7 @@
     "name": "Concept2 Rower",
     "category": "endurance",
     "progressionTier": 1,
-    "instructions": "Sit on the rower and strap your feet in securely. Grasp the handle with an overhand grip, arms straight, shins vertical. Drive through your legs first, then swing your torso back, and finally pull the handle to your lower ribs. Reverse the motion — extend arms, hinge forward, then slide forward on the seat. Maintain a fluid 1:2 ratio of drive to recovery time.",
+    "instructions": "Sit on the rower and strap your feet in securely. Grasp the handle with an overhand grip, arms straight, shins vertical. Drive through your legs first, then swing your torso back, and finally pull the handle to your lower ribs. Reverse the motion \u2014 extend arms, hinge forward, then slide forward on the seat. Maintain a fluid 1:2 ratio of drive to recovery time.",
     "feelRight": "Your legs should fatigue before your arms, with power coming from the hips and glutes. The stroke feels rhythmic and continuous, not jerky or rushed.",
     "feelWrong": "Pulling with the arms before engaging the legs reduces power and strains the biceps. Rushing the recovery or letting the handle snap back wastes momentum and disrupts rhythm.",
     "restTime": "60-90 seconds between intervals",
@@ -12,7 +12,7 @@
     "reps": "500 meters",
     "duration": null,
     "distance": "500 m",
-    "notes": "Focus on leg drive — the legs provide ~60% of the power. Use the built-in damper setting between 4-6 for most endurance workouts, and avoid setting it too high which turns the row into a strength exercise."
+    "notes": "Focus on leg drive \u2014 the legs provide ~60% of the power. Use the built-in damper setting between 4-6 for most endurance workouts, and avoid setting it too high which turns the row into a strength exercise."
   },
   {
     "exerciseId": "stationary_bike",
@@ -27,7 +27,7 @@
     "reps": "5 minutes",
     "duration": "15 minutes",
     "distance": null,
-    "notes": "Maintain a cadence of 80-90 RPM for endurance work — lower than 70 RPM places too much load on the knees. Stand in the saddle every 5 minutes to shift pressure off the sit bones."
+    "notes": "Maintain a cadence of 80-90 RPM for endurance work \u2014 lower than 70 RPM places too much load on the knees. Stand in the saddle every 5 minutes to shift pressure off the sit bones."
   },
   {
     "exerciseId": "jump_rope",
@@ -65,7 +65,7 @@
     "category": "endurance",
     "progressionTier": 0,
     "instructions": "Stand tall with a slight forward lean from the ankles, not the waist. Land mid-foot under your hips with a cadence of ~170-180 steps per minute. Keep your arms at 90 degrees and swing them forward and back, not across your body. Breathe in a rhythmic pattern such as three steps in and two steps out.",
-    "feelRight": "A light, quiet foot strike where you feel like you're gliding forward rather than pounding the ground. Your breathing should be conversational — able to speak in full sentences at an easy pace.",
+    "feelRight": "A light, quiet foot strike where you feel like you're gliding forward rather than pounding the ground. Your breathing should be conversational \u2014 able to speak in full sentences at an easy pace.",
     "feelWrong": "Heel striking with your foot landing well ahead of your hips creates a braking force that stresses knees and hips. Overstriding or bouncing up and down wastes vertical energy and slows you down.",
     "restTime": "60-90 seconds between intervals",
     "sets": "1",
@@ -79,7 +79,7 @@
     "name": "Stair Climber",
     "category": "endurance",
     "progressionTier": 1,
-    "instructions": "Step onto the machine and select a manual program with a moderate speed (50-60 steps per minute). Stand upright with your hands lightly resting on the rails for balance only. Take full steps — don't just lift your heels — to engage the glutes fully. Maintain a steady pace and avoid leaning on the handrails.",
+    "instructions": "Step onto the machine and select a manual program with a moderate speed (50-60 steps per minute). Stand upright with your hands lightly resting on the rails for balance only. Take full steps \u2014 don't just lift your heels \u2014 to engage the glutes fully. Maintain a steady pace and avoid leaning on the handrails.",
     "feelRight": "A steady, rhythmic climb with your glutes and quads doing the work. Your heart rate should elevate steadily without spiking, and you should feel a deep burn in the glutes by the end.",
     "feelWrong": "Leaning heavily on the handrails removes 20-30% of the workload and ruins posture. Taking half-steps or barely lifting your feet reduces glute engagement and turns the exercise into a calf pump.",
     "restTime": "60-90 seconds between sets",
@@ -109,9 +109,9 @@
     "name": "Assault Bike Sprints",
     "category": "endurance",
     "progressionTier": 3,
-    "instructions": "Adjust the seat so your leg is at 25-35 degrees of knee extension at the bottom of the stroke. Sprint all-out for 20 seconds using both arms and legs — push and pull the handles while driving the pedals. Coast or pedal lightly for 10 seconds of active recovery. Repeat without getting off the bike. Focus on explosive, powerful strokes rather than just fast spinning.",
+    "instructions": "Adjust the seat so your leg is at 25-35 degrees of knee extension at the bottom of the stroke. Sprint all-out for 20 seconds using both arms and legs \u2014 push and pull the handles while driving the pedals. Coast or pedal lightly for 10 seconds of active recovery. Repeat without getting off the bike. Focus on explosive, powerful strokes rather than just fast spinning.",
     "feelRight": "An immediate, intense burn in the quads and glutes within the first 10 seconds of every sprint. The fan resistance should roar loudly, and you should feel out of breath within 2-3 rounds, gasping during the recovery window.",
-    "feelWrong": "Spinning the pedals without applying real force to the handles wastes the upper-body component. Pacing yourself during the sprint defeats the purpose — the work interval should be truly maximal. Letting the recovery extend beyond 10 seconds reduces the training stimulus.",
+    "feelWrong": "Spinning the pedals without applying real force to the handles wastes the upper-body component. Pacing yourself during the sprint defeats the purpose \u2014 the work interval should be truly maximal. Letting the recovery extend beyond 10 seconds reduces the training stimulus.",
     "restTime": "2-3 minutes between rounds",
     "sets": "4",
     "reps": "1 round",
@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "swimming_freestyle",
+    "name": "Swimming Freestyle",
+    "category": "endurance",
+    "progressionTier": 2,
+    "instructions": "Start in the water, face down. Perform alternating arm strokes, reaching forward and pulling the water back alongside your body. Coordinate this with a continuous flutter kick from the hips, keeping the legs relatively straight. Turn your head to the side to breathe rhythmically, typically every 2 or 3 strokes.",
+    "feelRight": "You should feel a full-body cardiovascular workout, with strong engagement in the lats, shoulders, and core. The movement should feel fluid and rhythmic.",
+    "feelWrong": "Kicking from the knees instead of the hips reduces propulsion and tires you quickly. Lifting the head to look forward instead of turning it to the side sinks the hips and creates drag.",
+    "restTime": "30-60 seconds between intervals",
+    "sets": "4",
+    "reps": "100 meters",
+    "duration": null,
+    "distance": "100 m",
+    "notes": "Focus on a long, efficient glide with each stroke rather than rapidly thrashing the water. Bilateral breathing (every 3 strokes) helps maintain stroke symmetry."
   }
 ]

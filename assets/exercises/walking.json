@@ -7,7 +7,7 @@
     "instructions": "Begin with a 2-minute slow-paced warm-up to loosen the legs and gradually increase heart rate. Settle into a brisk pace where you can still hold a conversation but feel your breathing deepen. Swing your arms naturally in opposition to your legs and keep your gaze forward, not down at your feet. Cool down with 2 minutes of easy pacing at the end.",
     "feelRight": "You should feel a steady rhythm in your stride and a gentle rise in your breathing without gasping. Your core engages subtly to keep you upright, and your arms swing smoothly from the shoulders.",
     "feelWrong": "If you feel sharp shin pain or tight calves, you may be overstriding or landing too hard on your heels. Shorten your stride and aim for a mid-foot landing to reduce impact.",
-    "restTime": "None — slow steady pace",
+    "restTime": "None \u2014 slow steady pace",
     "sets": "1",
     "reps": "1 mile",
     "duration": null,
@@ -19,10 +19,10 @@
     "name": "Afternoon Walk",
     "category": "walking",
     "progressionTier": 0,
-    "instructions": "After a light hydration break, begin with 2 minutes at an easy pace to re-acclimate. Build into a brisk 1-mile effort, taking a controlled sip of water at the halfway point without breaking stride. Use the second half to focus on rhythmic breathing — inhale for 3 steps, exhale for 2. Finish with 2 minutes of slow walking to bring your heart rate down.",
+    "instructions": "After a light hydration break, begin with 2 minutes at an easy pace to re-acclimate. Build into a brisk 1-mile effort, taking a controlled sip of water at the halfway point without breaking stride. Use the second half to focus on rhythmic breathing \u2014 inhale for 3 steps, exhale for 2. Finish with 2 minutes of slow walking to bring your heart rate down.",
     "feelRight": "Your breathing should feel controlled and patterned, syncing with your footfalls in a 3:2 rhythm. You'll feel refreshed rather than drained, with a steady heat in your working leg muscles.",
     "feelWrong": "Side stitches or cramping often come from breathing too shallowly or drinking too much at once. Take smaller sips and focus on belly breathing to settle the diaphragm.",
-    "restTime": "None — slow steady pace",
+    "restTime": "None \u2014 slow steady pace",
     "sets": "1",
     "reps": "1 mile",
     "duration": null,
@@ -49,15 +49,15 @@
     "name": "Incline Walk",
     "category": "walking",
     "progressionTier": 0,
-    "instructions": "Find a moderate hill or set a treadmill to a 5-8% incline. Walk at a steady pace (not a race) for 20 minutes, leaning slightly forward from the ankles — not the waist — to maintain balance. Keep your steps shorter than on flat ground and drive through each heel-to-toe motion. Descend at the same incline or reduce gradually to avoid knee strain.",
+    "instructions": "Find a moderate hill or set a treadmill to a 5-8% incline. Walk at a steady pace (not a race) for 20 minutes, leaning slightly forward from the ankles \u2014 not the waist \u2014 to maintain balance. Keep your steps shorter than on flat ground and drive through each heel-to-toe motion. Descend at the same incline or reduce gradually to avoid knee strain.",
     "feelRight": "Your glutes and calves should feel the burn within a few minutes, and your heart rate will be elevated even at a moderate pace. The shorter, deliberate steps create a powerful push-off sensation through the back of each leg.",
-    "feelWrong": "Leaning forward at the waist instead of the ankles puts excessive strain on your lower back. If your lower back aches, straighten your torso and bend less — let the hill do the work.",
+    "feelWrong": "Leaning forward at the waist instead of the ankles puts excessive strain on your lower back. If your lower back aches, straighten your torso and bend less \u2014 let the hill do the work.",
     "restTime": "60-90 seconds",
     "sets": "1",
     "reps": "20 minutes",
     "duration": "20 minutes",
     "distance": null,
-    "notes": "Incline walking builds posterior chain strength and is easier on the knees than running hills. Do not hold the treadmill handrails — it reduces the load on your glutes by up to 30%."
+    "notes": "Incline walking builds posterior chain strength and is easier on the knees than running hills. Do not hold the treadmill handrails \u2014 it reduces the load on your glutes by up to 30%."
   },
   {
     "exerciseId": "walk_brisk_recovery",
@@ -67,12 +67,12 @@
     "instructions": "Begin with 2 minutes of very slow walking to assess how your body feels. Gradually increase to a brisk but comfortable pace for 15 minutes, keeping your hands relaxed and shoulders down away from your ears. Focus on deep nasal breathing to promote parasympathetic activation and recovery. Finish with 3 minutes of slow walking and gentle arm circles.",
     "feelRight": "This walk should feel loosening and restorative rather than taxing. Your joints should feel more mobile, and any previous muscle tightness should slowly dissipate as blood flow increases.",
     "feelWrong": "If you feel more sore or stiff during the walk, you started too fast or too soon after a hard session. Drop back to a slow shuffle pace and prioritize movement quality over speed.",
-    "restTime": "None — this is active recovery",
+    "restTime": "None \u2014 this is active recovery",
     "sets": "1",
     "reps": "20 minutes",
     "duration": "20 minutes",
     "distance": null,
-    "notes": "This is ideal for the day after a heavy leg workout or a long run. Keep the intensity at a 3-4 out of 10 perceived effort — the goal is blood flow, not stimulus."
+    "notes": "This is ideal for the day after a heavy leg workout or a long run. Keep the intensity at a 3-4 out of 10 perceived effort \u2014 the goal is blood flow, not stimulus."
   },
   {
     "exerciseId": "walk_distance_endurance",
@@ -103,5 +103,20 @@
     "duration": "30-60 minutes",
     "distance": "2-4 miles",
     "notes": "Start with a lighter weight (10-15 lbs) and gradually increase as your strength and conditioning improve. Wear supportive footwear, and consider a pack with a hip belt to transfer some load off the shoulders."
+  },
+  {
+    "exerciseId": "retro_walking",
+    "name": "Retro Walking (Backward Walking)",
+    "category": "walking",
+    "progressionTier": 1,
+    "instructions": "Ensure you are in a safe, clear area (a treadmill at low speed or an open track is ideal). Stand tall, look straight ahead, and begin walking backwards. Strike the ground with your toes first, then roll through the foot to the heel. Keep your steps relatively short and maintain an upright posture without leaning back.",
+    "feelRight": "You should feel a distinct activation in your quadriceps and calves, differing from forward walking. The knees should feel stable and supported.",
+    "feelWrong": "Leaning backward or taking excessively long strides can compromise balance and increase the risk of falling. Looking over your shoulder constantly can strain the neck; use a clear path or a spotter if not on a treadmill.",
+    "restTime": "None \u2014 slow, controlled pace",
+    "sets": "1",
+    "reps": "5-10 minutes",
+    "duration": "5-10 minutes",
+    "distance": null,
+    "notes": "This is excellent for knee rehabilitation and strengthening the VMO (vastus medialis oblique). Start very slowly to get used to the mechanics and balance requirements."
   }
 ]
