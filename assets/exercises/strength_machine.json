@@ -21,7 +21,7 @@
     "progressionTier": 1,
     "instructions": "Sit on the machine with your chest against the pad and feet flat on the platform. Reach forward and grasp the handles with a neutral grip. Pull the handles toward your torso, squeezing your shoulder blades together at the peak. Extend your arms fully on the return without rounding your shoulders forward.",
     "feelRight": "You should feel the contraction in your mid-back and rhomboids as you pull back. The movement should originate from your shoulders, not your lower back.",
-    "feelWrong": "Rounding the lower back or using excessive body momentum shifts tension away from the target muscles. Avoid pulling with just your arms — lead with your elbows.",
+    "feelWrong": "Rounding the lower back or using excessive body momentum shifts tension away from the target muscles. Avoid pulling with just your arms \u2014 lead with your elbows.",
     "restTime": "60-90 seconds",
     "sets": "3",
     "reps": "10-12",
@@ -147,7 +147,7 @@
     "reps": "10-15",
     "duration": null,
     "distance": null,
-    "notes": "Keep a slight bend in your elbows throughout — do not lock them out. Focus on bringing your elbows together, not your hands."
+    "notes": "Keep a slight bend in your elbows throughout \u2014 do not lock them out. Focus on bringing your elbows together, not your hands."
   },
   {
     "exerciseId": "hip_adductor_machine",
@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "cable_pull_through",
+    "name": "Cable Pull-Through",
+    "category": "strength_machine",
+    "progressionTier": 1,
+    "instructions": "Attach a rope to a low pulley on a cable machine. Stand facing away from the machine, straddling the cable. Reach between your legs and grasp the rope with both hands. Walk forward a few steps to create tension. Keeping a flat back and a slight bend in your knees, hinge forward at the hips, letting the cable pull your hands between your legs. Drive your hips forward, squeezing your glutes to stand back up to the starting position.",
+    "feelRight": "You should feel a strong stretch in your hamstrings at the bottom and a hard contraction in your glutes at the top. The motion is a pure hip hinge.",
+    "feelWrong": "Squatting down instead of hinging back shifts the focus to the quads. Rounding the lower back puts dangerous stress on the lumbar spine.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "12-15",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your arms straight and relatively relaxed; they are just hooks holding the rope. The power comes entirely from the hips."
   }
 ]

@@ -12,7 +12,7 @@
     "reps": "10",
     "duration": null,
     "distance": null,
-    "notes": "Control the descent — don't let gravity do the work. If your heels lift, try a wider stance or work on ankle mobility."
+    "notes": "Control the descent \u2014 don't let gravity do the work. If your heels lift, try a wider stance or work on ankle mobility."
   },
   {
     "exerciseId": "dumbbell_row",
@@ -72,7 +72,7 @@
     "reps": "10",
     "duration": null,
     "distance": null,
-    "notes": "Keep your elbows at about a 45-degree angle from your torso. Control the eccentric phase — don't let the weights drop."
+    "notes": "Keep your elbows at about a 45-degree angle from your torso. Control the eccentric phase \u2014 don't let the weights drop."
   },
   {
     "exerciseId": "dumbbell_romanian_deadlift",
@@ -102,7 +102,7 @@
     "reps": "12",
     "duration": null,
     "distance": null,
-    "notes": "Think of pouring a pitcher with your pinkies at the top — slightly tilt the dumbbells forward. Use a lighter weight and focus on strict form for best results."
+    "notes": "Think of pouring a pitcher with your pinkies at the top \u2014 slightly tilt the dumbbells forward. Use a lighter weight and focus on strict form for best results."
   },
   {
     "exerciseId": "dumbbell_bench_press",
@@ -139,7 +139,7 @@
     "name": "Dumbbell Shrug",
     "category": "strength_weights",
     "progressionTier": 2,
-    "instructions": "Stand holding a dumbbell in each hand at your sides with arms fully extended. Keeping your arms straight, elevate your shoulders straight up toward your ears as high as possible. Hold the peak contraction for a moment, then lower your shoulders under control. Avoid rolling your shoulders — move straight up and down.",
+    "instructions": "Stand holding a dumbbell in each hand at your sides with arms fully extended. Keeping your arms straight, elevate your shoulders straight up toward your ears as high as possible. Hold the peak contraction for a moment, then lower your shoulders under control. Avoid rolling your shoulders \u2014 move straight up and down.",
     "feelRight": "You should feel a strong contraction in your upper trapezius. The movement is small and vertical with no engagement from your arms or back.",
     "feelWrong": "Rolling your shoulders in circles instead of lifting straight up can cause neck strain. Using momentum or bending your elbows reduces the load on your traps.",
     "restTime": "60-90 seconds",
@@ -222,7 +222,7 @@
     "reps": "8",
     "duration": null,
     "distance": null,
-    "notes": "Keep your head in line with your spine — don't look up. Imagine pulling the bar apart as you row for greater lat activation."
+    "notes": "Keep your head in line with your spine \u2014 don't look up. Imagine pulling the bar apart as you row for greater lat activation."
   },
   {
     "exerciseId": "barbell_curl",
@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "standing_dumbbell_calf_raise",
+    "name": "Standing Dumbbell Calf Raise",
+    "category": "strength_weights",
+    "progressionTier": 1,
+    "instructions": "Stand tall holding a dumbbell in each hand by your sides. Place the balls of your feet on a raised surface like a step or weight plate, letting your heels hang off. Lower your heels towards the floor to stretch the calves, then press forcefully through the balls of your feet to raise your heels as high as possible. Pause at the top and lower under control.",
+    "feelRight": "You should feel a deep stretch in the calf muscles (gastrocnemius) at the bottom and a sharp contraction at the top.",
+    "feelWrong": "Bouncing out of the bottom uses the Achilles tendon's elasticity rather than muscle strength. Bending the knees turns the focus away from the gastrocnemius.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "15",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your legs straight but knees unlocked. If balance is an issue, perform single-leg raises while holding a support with your free hand."
   }
 ]
