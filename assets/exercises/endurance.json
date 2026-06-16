@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "elliptical_trainer",
+    "name": "Elliptical Trainer",
+    "category": "endurance",
+    "progressionTier": 1,
+    "instructions": "Step onto the elliptical pedals and grab the moving handles. Keep your core engaged, chest up, and back straight. Begin pedaling forward smoothly while simultaneously pushing and pulling the handles. Focus on a fluid, continuous motion rather than bouncing. Maintain an even distribution of effort between your upper and lower body.",
+    "feelRight": "A smooth, gliding motion with elevated heart rate. You should feel exertion in your quads, glutes, chest, back, and arms, with no impact on your joints.",
+    "feelWrong": "Leaning heavily on the console or handles reduces the work your core and legs have to do. Bouncing up and down indicates poor resistance setting or rushing.",
+    "restTime": "0 seconds (continuous steady state)",
+    "sets": "1",
+    "reps": "1",
+    "duration": "20 minutes",
+    "distance": null,
+    "notes": "Excellent low-impact option for cardiovascular health. Adjust resistance to maintain a steady cadence (usually around 60-80 RPM) without sacrificing form."
   }
 ]
