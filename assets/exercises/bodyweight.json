@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "bodyweight_lateral_lunge",
+    "name": "Bodyweight Lateral Lunge",
+    "category": "bodyweight",
+    "progressionTier": 2,
+    "instructions": "Stand with feet wider than shoulder-width apart, toes pointing forward or slightly out. Keeping your right leg straight, push your hips back and bend your left knee to lower into a lunge on the left side. Keep your chest up and your left heel flat on the floor. Push off your left foot to return to the starting position. Repeat on the other side.",
+    "feelRight": "You should feel a stretch in the inner thigh (adductor) of your straight leg, and effort in the glutes and quads of the bent leg. The movement should feel like a squat on one leg while the other stretches.",
+    "feelWrong": "Letting the knee of the bending leg collapse inward or raising the heel off the ground. Rounding the back excessively or not pushing the hips back, which can stress the knee.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "10 per side",
+    "duration": null,
+    "distance": null,
+    "notes": "This exercise is excellent for improving mobility in the hips and ankles while building strength in the frontal plane, which is often neglected in traditional workouts."
   }
 ]

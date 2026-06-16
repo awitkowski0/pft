@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "thread_the_needle",
+    "name": "Thread the Needle",
+    "category": "mobility",
+    "progressionTier": 0,
+    "instructions": "Start on all fours in a tabletop position with your wrists directly under your shoulders and knees under your hips. Inhale and reach your right arm up toward the ceiling, opening your chest. Exhale and slide your right arm under your left arm, bringing your right shoulder and the right side of your head to rest gently on the floor. Keep your hips elevated. Hold the stretch, then press into your left hand to return to the start. Repeat on the other side.",
+    "feelRight": "You should feel a deep stretch in your upper back, between your shoulder blades, and across the back of your shoulder on the arm that is 'threading'.",
+    "feelWrong": "Putting too much weight on your neck or head. The weight should be supported by your shoulder and the hand that remains planted.",
+    "restTime": "30 seconds between sides",
+    "sets": "2",
+    "reps": "5 reps or 30-second hold per side",
+    "duration": null,
+    "distance": null,
+    "notes": "A fantastic mobility drill for the thoracic spine. Use your planted hand to gently push into the floor to increase the rotational stretch through the upper back."
   }
 ]
