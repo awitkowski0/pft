@@ -21,7 +21,7 @@
     "progressionTier": 1,
     "instructions": "Sit on the machine with your chest against the pad and feet flat on the platform. Reach forward and grasp the handles with a neutral grip. Pull the handles toward your torso, squeezing your shoulder blades together at the peak. Extend your arms fully on the return without rounding your shoulders forward.",
     "feelRight": "You should feel the contraction in your mid-back and rhomboids as you pull back. The movement should originate from your shoulders, not your lower back.",
-    "feelWrong": "Rounding the lower back or using excessive body momentum shifts tension away from the target muscles. Avoid pulling with just your arms — lead with your elbows.",
+    "feelWrong": "Rounding the lower back or using excessive body momentum shifts tension away from the target muscles. Avoid pulling with just your arms \u2014 lead with your elbows.",
     "restTime": "60-90 seconds",
     "sets": "3",
     "reps": "10-12",
@@ -147,7 +147,7 @@
     "reps": "10-15",
     "duration": null,
     "distance": null,
-    "notes": "Keep a slight bend in your elbows throughout — do not lock them out. Focus on bringing your elbows together, not your hands."
+    "notes": "Keep a slight bend in your elbows throughout \u2014 do not lock them out. Focus on bringing your elbows together, not your hands."
   },
   {
     "exerciseId": "hip_adductor_machine",
@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "cable_face_pull",
+    "name": "Cable Face Pull",
+    "category": "strength_machine",
+    "progressionTier": 2,
+    "instructions": "Attach a rope to a cable machine set at upper-chest or face height. Grasp the ends of the rope with your thumbs pointing backward. Step back to create tension. Pull the rope toward your face, letting your elbows flare outward and pulling your hands apart as they approach your head. Squeeze your shoulder blades together and externally rotate your shoulders at the end of the movement.",
+    "feelRight": "You should feel the contraction primarily in your rear deltoids, rhomboids, and the external rotators of the rotator cuff. The movement should feel like pulling your shoulder blades together and opening your chest.",
+    "feelWrong": "Using too much weight will cause you to use your lower back to pull the weight or turn the movement into a bicep curl. Keeping your hands close together rather than pulling them apart reduces external rotation.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "12-15",
+    "duration": null,
+    "distance": null,
+    "notes": "Lighter weights and higher reps work best for this exercise. Pause for a one-second squeeze at the fully contracted position."
   }
 ]
