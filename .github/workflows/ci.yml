@@ -26,5 +26,6 @@ jobs:
         with:
           flutter-version: '3.27'
           channel: 'stable'
+      - run: touch .env
       - run: flutter pub get
       - run: flutter test
