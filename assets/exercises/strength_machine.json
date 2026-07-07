@@ -21,7 +21,7 @@
     "progressionTier": 1,
     "instructions": "Sit on the machine with your chest against the pad and feet flat on the platform. Reach forward and grasp the handles with a neutral grip. Pull the handles toward your torso, squeezing your shoulder blades together at the peak. Extend your arms fully on the return without rounding your shoulders forward.",
     "feelRight": "You should feel the contraction in your mid-back and rhomboids as you pull back. The movement should originate from your shoulders, not your lower back.",
-    "feelWrong": "Rounding the lower back or using excessive body momentum shifts tension away from the target muscles. Avoid pulling with just your arms — lead with your elbows.",
+    "feelWrong": "Rounding the lower back or using excessive body momentum shifts tension away from the target muscles. Avoid pulling with just your arms \u2014 lead with your elbows.",
     "restTime": "60-90 seconds",
     "sets": "3",
     "reps": "10-12",
@@ -147,7 +147,7 @@
     "reps": "10-15",
     "duration": null,
     "distance": null,
-    "notes": "Keep a slight bend in your elbows throughout — do not lock them out. Focus on bringing your elbows together, not your hands."
+    "notes": "Keep a slight bend in your elbows throughout \u2014 do not lock them out. Focus on bringing your elbows together, not your hands."
   },
   {
     "exerciseId": "hip_adductor_machine",
@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "machine_bicep_curl",
+    "name": "Machine Bicep Curl",
+    "category": "strength_machine",
+    "progressionTier": 1,
+    "instructions": "Adjust the seat so your upper arms rest flat on the pad and your elbows align with the machine's pivot point. Grasp the handles with an underhand grip. Curl the handles upward by flexing your elbows, squeezing your biceps at the top. Lower the handles slowly to the starting position.",
+    "feelRight": "You should feel an isolated contraction in your biceps during the curl, with a good stretch at the bottom of the movement.",
+    "feelWrong": "Lifting your elbows off the pad or leaning back to use body weight reduces bicep isolation. Letting the weight slam down removes the eccentric tension.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "10-12",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your wrists straight to avoid straining them. Pause for a second at peak contraction for maximum effect."
   }
 ]
