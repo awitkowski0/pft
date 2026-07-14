@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "prone_ytw",
+    "name": "Prone Y-T-W",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Lie face down on a mat with your arms extended in front of you. Lift your arms into a 'Y' position, squeezing your shoulder blades together. Lower and lift them into a 'T' position. Lower and finally lift them into a 'W' position. Keep your core tight and avoid arching your lower back excessively.",
+    "feelRight": "You should feel a strong contraction in the middle and lower trapezius, rhomboids, and rear deltoids, targeting postural muscles.",
+    "feelWrong": "Using your lower back to lift your chest off the floor instead of your upper back muscles, or shrugging your shoulders toward your ears.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "10",
+    "duration": null,
+    "distance": null,
+    "notes": "Excellent for countering forward-head posture and building scapular stability."
   }
 ]

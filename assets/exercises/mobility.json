@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "shoulder_pass_throughs",
+    "name": "Shoulder Pass-Throughs",
+    "category": "mobility",
+    "progressionTier": 1,
+    "instructions": "Hold a PVC pipe or resistance band with a wide overhand grip. Keeping your arms straight, slowly raise the pipe overhead and lower it behind your back. Reverse the motion to return to the starting position. Keep your core braced and ribs tucked down.",
+    "feelRight": "You should feel a stretch in your chest, shoulders, and lats, exploring the full range of motion of the shoulder capsule.",
+    "feelWrong": "Bending your elbows or shrugging your shoulders to force the movement. If you can't keep your arms straight, widen your grip.",
+    "restTime": "None",
+    "sets": "2",
+    "reps": "15",
+    "duration": null,
+    "distance": null,
+    "notes": "Gradually narrow your grip as your mobility improves over time."
   }
 ]

@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "swimming_freestyle",
+    "name": "Swimming - Freestyle",
+    "category": "endurance",
+    "progressionTier": 2,
+    "instructions": "In a pool, perform the front crawl (freestyle) stroke. Keep your body horizontal, head down looking at the bottom, and rotate your torso with each arm pull. Kick continuously from your hips with a slight knee bend. Breathe rhythmically by turning your head to the side as one arm recovers over the water.",
+    "feelRight": "You should feel a smooth, whole-body cardiovascular effort with zero joint impact, emphasizing lats, shoulders, and core.",
+    "feelWrong": "Lifting your head high to breathe causes your hips to sink, increasing drag. Kicking from the knees instead of the hips wastes energy.",
+    "restTime": "30-60 seconds between intervals",
+    "sets": "1",
+    "reps": "1",
+    "duration": "30 minutes",
+    "distance": null,
+    "notes": "Perfect for active recovery or building endurance without joint stress."
   }
 ]
