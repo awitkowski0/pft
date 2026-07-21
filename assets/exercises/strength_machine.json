@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "cable_pull_through",
+    "name": "Cable Pull-Through",
+    "category": "strength_machine",
+    "progressionTier": 2,
+    "instructions": "Attach a rope handle to a low cable pulley. Stand facing away from the machine with the cable between your legs, feet shoulder-width apart. Hinge at the hips, pushing your glutes back towards the machine while keeping a flat back and soft knees, letting the cable pull your hands through your legs. Drive your hips forward forcefully and squeeze your glutes to return to standing.",
+    "feelRight": "A powerful stretch in the hamstrings at the bottom and a massive glute contraction at the top. This is a pure hip hinge, so you should feel zero lower back strain.",
+    "feelWrong": "Squatting down instead of pushing the hips back shifts the load to the quads. Pulling with the arms or lower back instead of thrusting with the hips defeats the exercise.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "12-15",
+    "duration": null,
+    "distance": null,
+    "notes": "An excellent alternative or accessory to the deadlift that trains the hip hinge with horizontal resistance. Keep your chin tucked to maintain a neutral spine."
   }
 ]

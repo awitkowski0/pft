@@ -10,8 +10,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "45 second hold",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Place a pillow under your thighs for extra support if your knees are sensitive. Use this pose anytime between intense sets to reset your breath."
   },
   {
@@ -25,8 +25,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "30 second hold each leg",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Keep your hips square and facing forward. If you cannot reach your toes comfortably, rest your hands on your thigh or a block."
   },
   {
@@ -40,8 +40,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "30 second hold each leg",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Hold onto a wall or chair for balance if needed. Avoid pressing your heel directly into your glute — stop when you feel a comfortable stretch."
   },
   {
@@ -55,8 +55,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "45 second hold each side",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Slide a folded towel under your front hip if it does not rest comfortably on the floor. Keep your back foot flexed to protect the ankle and knee."
   },
   {
@@ -70,8 +70,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "30 second hold",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Adjust your hand height on the frame to target different parts of the lat. For a deeper stretch, bend your knees slightly and hinge at the hips."
   },
   {
@@ -85,8 +85,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "20 second hold each side",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Keep your jaw soft and your teeth slightly apart to avoid clenching. For a deeper release, add a gentle chin tuck before tilting your head."
   },
   {
@@ -100,8 +100,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "45 second hold",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Bend your knees more if you feel any sharp pulling in your hamstrings. Place your hands on blocks or a bench if they do not reach the floor comfortably."
   },
   {
@@ -115,8 +115,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "30 second hold each side",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Sit on a folded blanket if your hips are tight and your sit bones do not reach the floor. Keep your opposite hand pressed into the floor behind you for support."
   },
   {
@@ -130,8 +130,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "30 second hold each side",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Keep your head and shoulders relaxed on the floor to avoid neck tension. For a deeper stretch, press the crossed knee gently away from your body with your elbow."
   },
   {
@@ -145,8 +145,8 @@
     "restTime": "None — hold and breathe",
     "sets": "1",
     "reps": "45 second hold",
-    "duration": "null",
-    "distance": "null",
+    "duration": null,
+    "distance": null,
     "notes": "Pedal your heels gently at first before settling into a static hold on one side. Keep your arms actively pressing into the floor to distribute weight evenly."
   },
   {
@@ -163,5 +163,20 @@
     "duration": "30-60 seconds",
     "distance": null,
     "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
+  },
+  {
+    "exerciseId": "thread_the_needle",
+    "name": "Thread the Needle",
+    "category": "cooldown",
+    "progressionTier": 0,
+    "instructions": "Start on all fours in a tabletop position. Reach your right arm underneath your left arm, lowering your right shoulder and the right side of your head to the floor. Keep your hips high and square. Gently press your left hand into the floor to deepen the rotation in your upper back. Hold, breathe deeply, and then switch sides.",
+    "feelRight": "You should feel a deep stretch between your shoulder blades and across your upper back (thoracic spine), with a gentle rotational opening in the chest.",
+    "feelWrong": "Shifting your hips all the way back to your heels turns it into Child's Pose and loses the rotational stretch. Forcing the neck into the ground can cause cervical strain.",
+    "restTime": "None — hold and breathe",
+    "sets": "1",
+    "reps": "30-45 second hold per side",
+    "duration": null,
+    "distance": null,
+    "notes": "Excellent for releasing upper back tension after heavy pressing or prolonged sitting. Focus on expanding the ribcage with each inhale."
   }
 ]
