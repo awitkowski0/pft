@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "dumbbell_step_up",
+    "name": "Dumbbell Step-Up",
+    "category": "strength_weights",
+    "progressionTier": 2,
+    "instructions": "Hold a dumbbell in each hand and stand in front of a sturdy box or bench (knee height or slightly lower). Place your right foot completely on the box. Lean slightly forward and drive through the right heel to step up, bringing your left foot to meet the right. Slowly lower the left foot back to the floor, controlling the eccentric descent.",
+    "feelRight": "You should feel intense work in the glute and quad of the working (elevated) leg, particularly during the slow descent. Balance and core stability are heavily challenged.",
+    "feelWrong": "Pushing off aggressively with the bottom leg turns it into a calf exercise and removes the load from the working leg. Letting the knee of the working leg cave inward stresses the joint.",
+    "restTime": "90-120 seconds",
+    "sets": "3",
+    "reps": "8-10 per leg",
+    "duration": null,
+    "distance": null,
+    "notes": "To maximize glute engagement, focus on a slow, 3-second descent rather than just dropping back down. Complete all reps on one leg before switching."
   }
 ]

@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "shoulder_cars",
+    "name": "Shoulder CARs (Controlled Articular Rotations)",
+    "category": "mobility",
+    "progressionTier": 1,
+    "instructions": "Stand tall and brace your core, radiating tension through your whole body to prevent compensation. Slowly raise one straight arm forward and up until it's overhead (flexion). At the top, internally rotate the arm (turn the palm outward) and continue reaching back, tracing the largest circle possible behind you without moving your torso, ending with the back of your hand by your hip. Reverse the motion to return to start.",
+    "feelRight": "You should feel deep, slow muscular work in the shoulder capsule as it moves through its absolute maximum pain-free range of motion. The rest of the body feels completely rigid.",
+    "feelWrong": "Twisting the torso, arching the lower back, or bending the elbow means you are compensating for a lack of true shoulder mobility. Moving quickly bypasses the intent of the exercise.",
+    "restTime": "30 seconds between sides",
+    "sets": "1",
+    "reps": "3-5 reps per side",
+    "duration": null,
+    "distance": null,
+    "notes": "CARs are the gold standard for joint health. Pretend you are moving your arm through thick mud. If you hit a painful pinch point, make the circle slightly smaller to avoid the pain."
   }
 ]

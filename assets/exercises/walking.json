@@ -103,5 +103,20 @@
     "duration": "30-60 minutes",
     "distance": "2-4 miles",
     "notes": "Start with a lighter weight (10-15 lbs) and gradually increase as your strength and conditioning improve. Wear supportive footwear, and consider a pack with a hip belt to transfer some load off the shoulders."
+  },
+  {
+    "exerciseId": "backward_walking",
+    "name": "Backward Walking (Retro Walking)",
+    "category": "walking",
+    "progressionTier": 1,
+    "instructions": "On a safe, clear path or a treadmill set to a slow speed (1-2 mph), walk backward. Step back with a toe-to-heel motion. Keep your torso upright and avoid leaning too far forward. Engage your core for balance. If on a treadmill, lightly rest your fingers on the handrails initially until you feel secure.",
+    "feelRight": "You should feel a distinct burning sensation in the quadriceps (specifically the VMO above the knee) and calves that you don't get from forward walking. The knees should feel stable and supported.",
+    "feelWrong": "Leaning drastically backward or forward throws off your center of gravity. Walking too fast before mastering the pattern can lead to tripping.",
+    "restTime": "None — continuous pace",
+    "sets": "1",
+    "reps": "5-10 minutes",
+    "duration": "5-10 minutes",
+    "distance": null,
+    "notes": "A highly effective physical therapy tool for knee rehabilitation, strengthening the VMO, and improving proprioception. Start slow and focus on the mind-muscle connection."
   }
 ]

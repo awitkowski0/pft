@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "lateral_lunge",
+    "name": "Lateral Lunge",
+    "category": "bodyweight",
+    "progressionTier": 2,
+    "instructions": "Stand tall with your feet together. Take a large step to the right, pushing your hips back and bending your right knee while keeping your left leg perfectly straight. Keep your chest up and core engaged. Push off your right foot to return to the starting position. Alternate sides.",
+    "feelRight": "You should feel a strong stretch in the inner thigh of your straight leg and load in the glute and quad of the bent leg. The movement challenges frontal plane stability.",
+    "feelWrong": "Letting the knee of the bent leg cave inward or lifting the heel off the ground reduces stability and places shearing force on the knee. Bending the straight leg removes the inner thigh stretch.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "10 per leg",
+    "duration": null,
+    "distance": null,
+    "notes": "Start with bodyweight and progress by holding a kettlebell or dumbbell in a goblet position. Ensure your torso remains as upright as possible without overextending the lumbar spine."
   }
 ]
