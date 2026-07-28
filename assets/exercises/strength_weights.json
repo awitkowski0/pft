@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "dumbbell_pullover",
+    "name": "Dumbbell Pullover",
+    "category": "strength_weights",
+    "progressionTier": 2,
+    "instructions": "Lie perpendicular across a bench with only your upper back and shoulders supported. Hold a single dumbbell with both hands, arms extended over your chest. Keeping a slight bend in your elbows, lower the dumbbell in an arc behind your head until you feel a stretch in your lats and chest. Pull the dumbbell back over your chest.",
+    "feelRight": "A deep stretch in your lats (sides of back) and chest. Your core should be engaged to keep your hips from dropping.",
+    "feelWrong": "Pain in the shoulder joints or excessive bending of the elbows (turning it into a tricep extension).",
+    "restTime": "90 seconds",
+    "sets": "3",
+    "reps": "10",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your hips slightly elevated but lower than the bench to enhance the stretch in the lats."
   }
 ]

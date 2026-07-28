@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "pike_push_up",
+    "name": "Pike Push-Up",
+    "category": "bodyweight",
+    "progressionTier": 2,
+    "instructions": "Start in a downward dog position with your hands and feet on the floor, hips pushed up towards the ceiling. Bend your elbows to lower your head towards the floor between your hands. Push back up to the starting position.",
+    "feelRight": "You should feel the primary effort in your shoulders, triceps, and upper chest.",
+    "feelWrong": "Flaring your elbows out too much or letting your lower back sag.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "10",
+    "duration": null,
+    "distance": null,
+    "notes": "Elevate your feet on a box or chair to increase the difficulty."
   }
 ]
