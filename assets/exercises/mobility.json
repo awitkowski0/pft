@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "shoulder_pass_throughs",
+    "name": "Shoulder Pass-Throughs",
+    "category": "mobility",
+    "progressionTier": 0,
+    "instructions": "Hold a PVC pipe, broomstick, or resistance band with a wide overhand grip. Keeping your arms straight, slowly lift the bar over your head and back down behind your body as far as comfortable. Reverse the motion to return to the start.",
+    "feelRight": "A smooth stretching sensation in the chest and shoulders. The movement should be fluid.",
+    "feelWrong": "Bending your elbows to force the bar around means your grip is too narrow. Feeling sharp pain in the shoulder joint.",
+    "restTime": "None",
+    "sets": "2",
+    "reps": "10-15 reps",
+    "duration": null,
+    "distance": null,
+    "notes": "Start with a very wide grip and gradually narrow it over time as your mobility improves."
   }
 ]

@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "barbell_front_squat",
+    "name": "Barbell Front Squat",
+    "category": "strength_weights",
+    "progressionTier": 3,
+    "instructions": "Rest a barbell across the front of your shoulders (anterior deltoids) in a rack position, keeping your elbows high. Descend into a squat by pushing your hips back and bending your knees, maintaining an upright torso. Drive back up to the starting position.",
+    "feelRight": "Significant demand on the quadriceps and anterior core (abdominals) to maintain an upright posture.",
+    "feelWrong": "Letting your elbows drop, which causes the upper back to round and the bar to roll forward. Leaning forward excessively.",
+    "restTime": "120-180 seconds",
+    "sets": "3",
+    "reps": "8-10",
+    "duration": null,
+    "distance": null,
+    "notes": "If a full clean grip is too hard on the wrists, use a crossed-arm grip or lifting straps."
   }
 ]

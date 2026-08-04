@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "cable_face_pull",
+    "name": "Cable Face Pull",
+    "category": "strength_machine",
+    "progressionTier": 1,
+    "instructions": "Attach a rope to a high pulley. Grasp the rope with both hands, palms facing inwards. Step back to create tension. Pull the rope towards your face, separating your hands and squeezing your shoulder blades together at the end of the movement.",
+    "feelRight": "Strong contraction in the rear deltoids, rhomboids, and upper back. It should feel like an active posture correction.",
+    "feelWrong": "Pulling too much weight and using momentum. Shrugging the shoulders up towards the ears.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "12-15",
+    "duration": null,
+    "distance": null,
+    "notes": "Crucial exercise for shoulder health and counteracting the effects of forward head posture."
   }
 ]
