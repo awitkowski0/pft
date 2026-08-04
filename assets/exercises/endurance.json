@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "swimming_freestyle",
+    "name": "Swimming (Freestyle)",
+    "category": "endurance",
+    "progressionTier": 1,
+    "instructions": "Swim continuously using the freestyle (front crawl) stroke. Focus on a smooth, rhythmic arm pull, a steady flutter kick, and bilateral breathing (breathing on both sides).",
+    "feelRight": "A full-body cardiovascular workout. You should feel your lats, shoulders, and core working, along with a steady elevation in heart rate.",
+    "feelWrong": "Holding your breath or breathing erratically. Lifting your head too high out of the water creates drag.",
+    "restTime": "60 seconds between intervals",
+    "sets": "4",
+    "reps": "100 meters",
+    "duration": "15-20 minutes",
+    "distance": "400 meters",
+    "notes": "Great low-impact option that builds cardiovascular endurance without joint stress."
   }
 ]

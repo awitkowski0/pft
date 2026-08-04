@@ -58,7 +58,6 @@ app.*.map.json
 .packages
 
 # Isar generated code
-*.g.dart
 
 # Firebase config (project-specific, contains keys)
 ios/Runner/GoogleService-Info.plist
