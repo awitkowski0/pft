@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "frog_stretch",
+    "name": "Frog Stretch",
+    "category": "mobility",
+    "progressionTier": 1,
+    "instructions": "Start on all fours. Slowly widen your knees as far apart as is comfortable, keeping the inner edges of your feet on the floor and your ankles directly behind your knees. Lower your upper body down to your forearms. Gently push your hips back toward your heels until you feel a deep stretch in your inner thighs and groin.",
+    "feelRight": "You should feel a significant, deep stretch in the adductors (inner thighs) and groin area. The stretch should be intense but tolerable, releasing slightly as you breathe and hold.",
+    "feelWrong": "Feeling sharp pain in the knee joints means the angle is incorrect or the surface is too hard. Arching your lower back aggressively can cause lumbar discomfort; try to keep a neutral spine.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "45-60 second hold",
+    "duration": null,
+    "distance": null,
+    "notes": "Place folded towels or use a thick mat under your knees for comfort. Breathe deeply into the stretch and avoid forcing your hips back aggressively."
   }
 ]

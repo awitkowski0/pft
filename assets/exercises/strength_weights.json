@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "kettlebell_swing",
+    "name": "Kettlebell Swing",
+    "category": "strength_weights",
+    "progressionTier": 2,
+    "instructions": "Stand with feet slightly wider than shoulder-width, a kettlebell on the floor in front of you. Hinge at your hips, keeping your back flat, and grab the handle with both hands. Hike the kettlebell back between your legs, then explosively drive your hips forward and squeeze your glutes to swing the bell up to chest height. Let the bell fall back down, hinging at the hips as it passes between your legs to begin the next rep.",
+    "feelRight": "You should feel powerful activation in your glutes, hamstrings, and core. The movement should feel explosive and rhythmic, driven by the hips, with the arms merely acting as ropes holding the weight.",
+    "feelWrong": "Squatting instead of hinging turns the exercise into a front raise and reduces power output. Lifting the bell with your shoulders rather than thrusting with your hips defeats the purpose of the exercise.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "15-20",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your core braced and avoid hyperextending your lower back at the top of the swing. The bell should feel weightless at the apex of the movement."
   }
 ]

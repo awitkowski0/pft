@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "elliptical_machine",
+    "name": "Elliptical Machine",
+    "category": "endurance",
+    "progressionTier": 0,
+    "instructions": "Step onto the pedals and grab the moving handlebars. Begin pedaling forward in a smooth, continuous motion, simultaneously pushing and pulling the handles. Keep your posture upright, core engaged, and feet flat on the pedals, pushing through the entire foot rather than just the toes.",
+    "feelRight": "A low-impact, rhythmic cardiovascular effort distributed across the legs, glutes, and upper body. Your heart rate should elevate steadily while your joints feel supported and fluid.",
+    "feelWrong": "Bouncing up and down excessively or leaning forward on the console indicates poor posture and reduces core engagement. Pushing only with your toes can lead to foot numbness and calf tightness.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "Continuous",
+    "duration": "20-30 minutes",
+    "distance": null,
+    "notes": "Adjust the resistance and incline to vary the intensity. Pedaling backward can shift the focus more toward the hamstrings and calves."
   }
 ]

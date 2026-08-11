@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "superman",
+    "name": "Superman",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Lie face down on a mat with your arms extended straight in front of you and your legs straight behind you. Keep your neck neutral by looking at the floor. Simultaneously lift your arms, chest, and legs off the floor by squeezing your lower back and glutes. Hold the peak position for a second, then slowly lower back to the starting position.",
+    "feelRight": "You should feel a strong contraction in your lower back (erector spinae), glutes, and upper back. The movement should feel controlled and isolated to the posterior chain.",
+    "feelWrong": "Hyperextending your neck to look up places unnecessary strain on the cervical spine. Jerking the movement or using momentum reduces muscular engagement and increases injury risk.",
+    "restTime": "45-60 seconds",
+    "sets": "3",
+    "reps": "12-15",
+    "duration": null,
+    "distance": null,
+    "notes": "If lifting both arms and legs is too difficult, start by lifting just the arms, then just the legs, or do opposite arm and leg lifts."
   }
 ]
