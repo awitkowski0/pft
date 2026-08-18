@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "hollow_body_hold",
+    "name": "Hollow Body Hold",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Lie flat on your back with legs straight and arms extended overhead. Press your lower back firmly into the floor by contracting your abs. Slowly lift your legs, arms, and upper back off the floor, forming a 'hollow' or banana shape. Hold this position.",
+    "feelRight": "Intense engagement across your entire abdominal wall. Your lower back must remain glued to the floor throughout.",
+    "feelWrong": "If your lower back arches and comes off the floor, you've lost the core engagement and are stressing the lumbar spine. If this happens, bring your legs higher or tuck your knees to regain form.",
+    "restTime": "45 seconds",
+    "sets": "3",
+    "reps": "30-45 seconds",
+    "duration": "90-135 seconds",
+    "distance": null,
+    "notes": "A foundational gymnastics core exercise that builds incredible anterior core strength and stability, transferring well to many other lifts."
   }
 ]

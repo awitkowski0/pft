@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "cossack_squat",
+    "name": "Cossack Squat",
+    "category": "mobility",
+    "progressionTier": 2,
+    "instructions": "Start in a wide stance. Shift your weight to one side, bending that knee and dropping your hips down while keeping the other leg perfectly straight. The heel of the straight leg stays on the floor with toes pointing up. Keep your chest up and back straight. Push back up to the center and switch sides.",
+    "feelRight": "A deep stretch in the inner thigh (adductor) of the straight leg, and a strong effort in the quads and glutes of the bent leg. Ankle mobility on the bent leg will also be challenged.",
+    "feelWrong": "Letting the heel of the bent leg lift off the ground (unless you lack the ankle mobility to keep it flat, in which case go only as deep as you can maintain form). Rounding the back excessively.",
+    "restTime": "30 seconds",
+    "sets": "2",
+    "reps": "6-8 per side",
+    "duration": null,
+    "distance": null,
+    "notes": "Excellent for opening up the hips, improving lateral mobility, and strengthening the lower body in extended ranges of motion."
   }
 ]
