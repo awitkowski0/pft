@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "barbell_front_squat",
+    "name": "Barbell Front Squat",
+    "category": "strength_weights",
+    "progressionTier": 3,
+    "instructions": "Place the barbell across the front of your shoulders, resting it on your clavicles and front delts. Keep your elbows up high and chest lifted. Squat down until your thighs are at least parallel to the floor, driving your knees out and keeping your torso upright. Drive back up to the starting position.",
+    "feelRight": "You should feel immense engagement in your quadriceps and your anterior core (abs) working hard to keep you upright. The weight should feel centered over your mid-foot.",
+    "feelWrong": "If your elbows drop and you round forward at the upper back, the weight will pull you out of position. If you feel it heavily in your lower back, your core has lost tension and you are leaning too far forward.",
+    "restTime": "90-120 seconds",
+    "sets": "3-4",
+    "reps": "6-10",
+    "duration": null,
+    "distance": null,
+    "notes": "A powerful builder for the anterior chain. Focus heavily on thoracic mobility and core bracing to master this movement."
   }
 ]

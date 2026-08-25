@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "cable_face_pull",
+    "name": "Cable Face Pull",
+    "category": "strength_machine",
+    "progressionTier": 1,
+    "instructions": "Attach a rope to a high pulley. Grab the ends with an overhand or neutral grip. Pull the rope toward the bridge of your nose, splitting your hands apart as they near your face. Squeeze your shoulder blades together and externally rotate your shoulders at the end of the pull.",
+    "feelRight": "You should feel intense engagement in your rear deltoids, rhomboids, and lower traps.",
+    "feelWrong": "If you pull too low, your biceps take over. If you jerk backward, you are using momentum instead of the targeted upper back musculature.",
+    "restTime": "60 seconds",
+    "sets": "3-4",
+    "reps": "12-15",
+    "duration": null,
+    "distance": null,
+    "notes": "Essential for long-term shoulder health and postural correction, especially for those who perform heavy pushing movements."
   }
 ]

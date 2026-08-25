@@ -163,5 +163,20 @@
     "duration": "30-60 seconds",
     "distance": null,
     "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
+  },
+  {
+    "exerciseId": "supine_spinal_twist",
+    "name": "Supine Spinal Twist",
+    "category": "cooldown",
+    "progressionTier": 0,
+    "instructions": "Lie flat on your back. Draw your right knee into your chest, then gently guide it across your body to the left with your left hand. Extend your right arm out to the side and turn your gaze to the right. Hold, then repeat on the opposite side.",
+    "feelRight": "You should feel a releasing stretch along your spine, lower back, outer hip, and across your chest.",
+    "feelWrong": "If you feel sharp spinal pain, ease out. If your extended arm's shoulder lifts far off the ground, reduce the twist of the leg.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "1 per side",
+    "duration": "30-60 seconds per side",
+    "distance": null,
+    "notes": "A restorative pose that helps decompress the spine and relax the nervous system after a workout."
   }
 ]

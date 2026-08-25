@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "pvc_shoulder_dislocates",
+    "name": "PVC Shoulder Dislocates",
+    "category": "mobility",
+    "progressionTier": 1,
+    "instructions": "Hold a PVC pipe, broomstick, or resistance band with a wide overhand grip in front of your hips. Keeping your arms perfectly straight and your core braced (do not arch your back), slowly raise the pipe overhead and lower it down behind your back. Reverse the motion to return to the start.",
+    "feelRight": "You should feel a deep stretch and opening across your chest and the front of your shoulders, with smooth articulation of the shoulder joints.",
+    "feelWrong": "If you have to bend your elbows or arch your lower back aggressively to get the pipe over, your grip is too narrow. Widen your grip until you can maintain straight arms and a neutral spine.",
+    "restTime": "None",
+    "sets": "2",
+    "reps": "10-15",
+    "duration": null,
+    "distance": null,
+    "notes": "Start with a very wide grip and gradually narrow it over weeks and months as your shoulder mobility improves."
   }
 ]
