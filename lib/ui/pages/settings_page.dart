@@ -240,7 +240,7 @@ class _SettingsPageState extends ConsumerState<SettingsPage> {
                     ),
 
                     _buildField('Fitness Level', DropdownButtonFormField<String>(
-                      initialValue: _fitnessLevel,
+                      value: _fitnessLevel,
                       dropdownColor: AppColors.surface,
                       decoration: const InputDecoration(
                         filled: true,
