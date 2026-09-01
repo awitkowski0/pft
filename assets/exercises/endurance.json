@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "swimming",
+    "name": "Swimming (Freestyle)",
+    "category": "endurance",
+    "progressionTier": 2,
+    "instructions": "Swim continuous lengths of the pool using the front crawl (freestyle) stroke. Focus on a smooth flutter kick originating from the hips, not the knees. Rotate your torso with each arm stroke and breathe bilaterally (on both sides) to maintain balance and symmetry.",
+    "feelRight": "You should feel a full-body cardiovascular effort with particular emphasis on the lats, shoulders, and core. You should feel like you are gliding through the water efficiently rather than fighting it.",
+    "feelWrong": "Lifting your head high out of the water to breathe causes your hips to sink, increasing drag significantly. Bending your knees excessively on the kick wastes energy and slows you down.",
+    "restTime": "30-60 seconds between intervals",
+    "sets": "5",
+    "reps": "100 meters",
+    "duration": "20 minutes",
+    "distance": "500 m",
+    "notes": "Swimming provides excellent cardiovascular conditioning with zero impact on the joints, making it ideal for active recovery or rehabilitation."
   }
 ]

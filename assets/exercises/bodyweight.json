@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "superman_hold",
+    "name": "Superman Hold",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Lie face down on the floor with your arms extended straight in front of you and your legs straight behind you. Engage your core and squeeze your glutes to lift your arms, chest, and legs off the floor simultaneously. Hold this contracted position, keeping your gaze down to maintain a neutral neck.",
+    "feelRight": "You should feel a strong contraction throughout your entire posterior chain, especially in your lower back, glutes, and upper back between the shoulder blades.",
+    "feelWrong": "Looking up sharply can strain your neck. Lifting too high and feeling a sharp pinch in your lower back means you're hyperextending; focus on length rather than height.",
+    "restTime": "45 seconds",
+    "sets": "3",
+    "reps": "30 second hold",
+    "duration": null,
+    "distance": null,
+    "notes": "If lifting both arms and legs is too challenging, start by lifting just your right arm and left leg, then alternate."
   }
 ]
