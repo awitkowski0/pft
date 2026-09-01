@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "leg_press_calf_raise",
+    "name": "Machine Calf Press",
+    "category": "strength_machine",
+    "progressionTier": 1,
+    "instructions": "Sit in the leg press machine and place the balls of your feet on the lower edge of the platform with your heels hanging off. Press the platform up and unrack the safety handles. Keep your knees straight but not forcefully locked. Lower your heels as far as possible to stretch the calves, then press through the balls of your feet to raise the platform as high as possible.",
+    "feelRight": "You should feel a deep stretch in the gastrocnemius (upper calf) at the bottom and a hard contraction at the peak. The movement is driven entirely by ankle flexion and extension.",
+    "feelWrong": "Bending your knees during the movement shifts the focus away from the gastrocnemius and can reduce the effectiveness of the exercise. Bouncing at the bottom uses momentum rather than muscle strength.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "15",
+    "duration": null,
+    "distance": null,
+    "notes": "Because the knees are straight, this exercise targets the larger gastrocnemius muscle of the calf more effectively than seated calf raises. Pause for a second at the top of each rep."
   }
 ]

@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "farmers_walk",
+    "name": "Farmer's Walk",
+    "category": "strength_weights",
+    "progressionTier": 2,
+    "instructions": "Place a heavy dumbbell or kettlebell on the floor on either side of you. Squat down with good form to pick them up, and stand tall. Brace your core, pull your shoulder blades slightly back and down, and walk forward with short, quick, controlled steps. Maintain an upright posture and do not let the weights rest against your legs.",
+    "feelRight": "You should feel your grip, forearms, traps, and core working intensely to stabilize the load. Your posture should remain completely upright and rigid.",
+    "feelWrong": "Slouching forward or letting your shoulders round forward places dangerous stress on your upper back and neck. Leaning to one side indicates unequal weight distribution or core weakness.",
+    "restTime": "90-120 seconds",
+    "sets": "3",
+    "reps": "40 yards",
+    "duration": null,
+    "distance": "40 yards",
+    "notes": "This is a fundamental functional movement that builds grip strength and core stability that transfers to heavy deadlifts and everyday tasks. Keep your chin tucked and look straight ahead."
   }
 ]
