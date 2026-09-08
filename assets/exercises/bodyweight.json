@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "single_leg_calf_raise",
+    "name": "Single-Leg Calf Raise",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Stand on the edge of a step or block on one foot, holding onto a wall or rail for balance. Let your heel drop below the level of the step to stretch the calf, then push up onto your toes as high as possible. Squeeze the calf at the top, and lower under control.",
+    "feelRight": "You should feel a deep stretch at the bottom and a strong contraction in the calf muscle at the top.",
+    "feelWrong": "Using momentum or bending the knee excessively shifts the focus away from the calf.",
+    "restTime": "45 seconds",
+    "sets": "3",
+    "reps": "12-15 per leg",
+    "duration": null,
+    "distance": null,
+    "notes": "Perform the eccentric (lowering) phase slowly. Hold a dumbbell in one hand for added resistance if needed."
   }
 ]
