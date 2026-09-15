@@ -163,5 +163,20 @@
     "duration": "30-60 seconds",
     "distance": null,
     "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
+  },
+  {
+    "exerciseId": "butterfly_stretch",
+    "name": "Butterfly Stretch",
+    "category": "cooldown",
+    "progressionTier": 1,
+    "instructions": "Sit on the floor with the soles of your feet together and your knees bent out to the sides. Hold your feet with your hands. Sit up tall to lengthen your spine, then gently hinge forward at the hips, keeping your back straight. You can use your elbows to lightly press down on your thighs.",
+    "feelRight": "You should feel a gentle, opening stretch in your inner thighs (adductors) and groin area.",
+    "feelWrong": "Rounding your back aggressively to bring your nose to your toes shifts the stretch away from the adductors and can strain the lower back. Forcing your knees down with sharp pressure can tweak the hip joint.",
+    "restTime": "30 seconds",
+    "sets": "2",
+    "reps": "1",
+    "duration": "45 seconds",
+    "distance": null,
+    "notes": "Breathe deeply and try to relax further into the stretch with each exhale. Do not bounce."
   }
 ]
