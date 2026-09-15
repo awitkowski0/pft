@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "bird_dog",
+    "name": "Bird Dog",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Start on your hands and knees in a tabletop position. Brace your core to keep your spine neutral. Simultaneously extend your right arm straight forward and your left leg straight back until they are parallel to the floor. Hold for a moment, avoiding any rotation in the hips, then slowly return to the starting position and switch sides.",
+    "feelRight": "You should feel your core working hard to prevent your hips or shoulders from rotating or sagging, with engagement in the glutes and lower back of the extended limbs.",
+    "feelWrong": "Arching your lower back to get your leg higher or letting your hips tilt side-to-side defeats the anti-extension/anti-rotation purpose of the exercise.",
+    "restTime": "30 seconds",
+    "sets": "3",
+    "reps": "10 per side",
+    "duration": null,
+    "distance": null,
+    "notes": "Place a foam roller or a light object across your lower back to provide tactile feedback on whether your hips are rotating."
   }
 ]

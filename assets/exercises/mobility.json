@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "thread_the_needle",
+    "name": "Thread the Needle",
+    "category": "mobility",
+    "progressionTier": 1,
+    "instructions": "Start on all fours in a tabletop position. Reach your right arm underneath your body and across to the left side, allowing your right shoulder and the side of your head to rest on the ground. Keep your hips elevated and square. Hold, then return to the start and repeat on the other side.",
+    "feelRight": "You should feel a deep stretch between your shoulder blades (rhomboids) and a gentle twist in your mid-back (thoracic spine).",
+    "feelWrong": "Shifting your hips all the way back to your heels (like child's pose) reduces the rotational element. Forcing your neck into the ground can cause cervical discomfort.",
+    "restTime": "15 seconds",
+    "sets": "2",
+    "reps": "1",
+    "duration": "30 seconds per side",
+    "distance": null,
+    "notes": "You can extend your non-working arm straight out in front of you or wrap it behind your back for an additional chest stretch."
   }
 ]
