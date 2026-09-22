@@ -163,5 +163,20 @@
     "duration": "30-60 seconds",
     "distance": null,
     "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
+  },
+  {
+    "exerciseId": "butterfly_stretch",
+    "name": "Butterfly Stretch",
+    "category": "cooldown",
+    "progressionTier": 0,
+    "instructions": "Sit on the floor with the soles of your feet pressed together and your knees bent outward. Hold your feet or ankles. Sit tall and gently press your knees toward the floor using your elbows or active muscle control. For a deeper stretch, hinge forward at the hips while maintaining a straight back.",
+    "feelRight": "You should feel a gentle, spreading stretch in the groin and inner thighs (adductors). The stretch should be comfortable and easily tolerated.",
+    "feelWrong": "Bouncing your knees (ballistic stretching) can cause muscle tearing. Rounding your back excessively instead of hinging at the hips shifts the stretch away from the intended area.",
+    "restTime": "None — hold and breathe",
+    "sets": "1",
+    "reps": "45 second hold",
+    "duration": null,
+    "distance": null,
+    "notes": "If sitting on the floor is uncomfortable, place a folded towel or cushion under your sit bones. Focus on deep breathing to help the muscles relax."
   }
 ]
