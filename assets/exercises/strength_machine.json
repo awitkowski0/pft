@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "hack_squat_machine",
+    "name": "Hack Squat Machine",
+    "category": "strength_machine",
+    "progressionTier": 2,
+    "instructions": "Step onto the platform and position your shoulders under the pads, back flat against the backrest. Place your feet shoulder-width apart. Disengage the safety handles. Lower the carriage by bending your knees until your thighs are at least parallel to the platform. Drive through your entire foot to push the carriage back up.",
+    "feelRight": "You should feel intense engagement in your quadriceps and glutes. The back support isolates the legs and allows you to push hard without lower back fatigue.",
+    "feelWrong": "Letting your knees cave inward or lifting your heels off the platform transfers stress to the knee joint. Bouncing out of the bottom position relies on momentum rather than muscle strength.",
+    "restTime": "90-120 seconds",
+    "sets": "3",
+    "reps": "10-12",
+    "duration": null,
+    "distance": null,
+    "notes": "Adjust your foot placement to change the emphasis: lower on the platform targets the quads more, while higher targets the glutes and hamstrings."
   }
 ]

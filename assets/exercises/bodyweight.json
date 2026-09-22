@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "lateral_lunge",
+    "name": "Lateral Lunge",
+    "category": "bodyweight",
+    "progressionTier": 2,
+    "instructions": "Stand tall with feet together. Take a large step to the side with one leg. Keeping the other leg straight, push your hips back and bend the knee of the stepping leg to lower your body. Ensure the knee tracks over your toes. Push off the bent leg to return to the starting position. Alternate sides.",
+    "feelRight": "You should feel a stretch in the inner thigh of the straight leg and the load distributed across the glute and quad of the bent leg.",
+    "feelWrong": "Leaning too far forward or letting your knee cave inward puts undue stress on the joints. Rounding your lower back is also a sign of poor form.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "10 per leg",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your chest up throughout the movement. If you struggle with depth, only go as low as you can comfortably control without pain."
   }
 ]

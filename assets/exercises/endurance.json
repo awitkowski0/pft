@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "elliptical_machine",
+    "name": "Elliptical Machine",
+    "category": "endurance",
+    "progressionTier": 1,
+    "instructions": "Step onto the pedals and grip the moving handles. Begin pedaling forward in a smooth, elliptical motion while actively pushing and pulling the handles. Keep your core engaged, chest up, and posture tall. Adjust resistance and incline to match your desired intensity.",
+    "feelRight": "You should feel a full-body cardiovascular workout with engagement in the quads, hamstrings, glutes, chest, back, and arms. The motion should feel fluid and low-impact.",
+    "feelWrong": "Leaning heavily on the console or locking out your knees disrupts the fluid motion and shifts work away from your muscles. Pedaling entirely on your toes rather than through your whole foot can cause calf cramping.",
+    "restTime": "60-90 seconds between intervals (if doing intervals)",
+    "sets": "1",
+    "reps": "20 minutes",
+    "duration": "20 minutes",
+    "distance": null,
+    "notes": "The elliptical is a great low-impact option. Focus on actively using your upper body to assist the leg drive, rather than just letting the arms go along for the ride."
   }
 ]
