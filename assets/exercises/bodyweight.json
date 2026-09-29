@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "lateral_lunge",
+    "name": "Lateral Lunge",
+    "category": "bodyweight",
+    "progressionTier": 2,
+    "instructions": "Stand tall with your feet together. Take a large step out to your right side. Shift your weight onto your right foot and push your hips back as if sitting in a chair on that side, keeping your left leg perfectly straight. Keep your chest up and back flat. Push off your right foot to return to the starting position. Alternate sides or complete all reps on one side before switching.",
+    "feelRight": "You should feel the work in the glute and quad of the working leg, and a strong stretch in the adductor (inner thigh) of the straight leg. Your torso should stay upright with a slight forward lean matching your shin angle.",
+    "feelWrong": "Letting the knee of the working leg cave inward or shift past your toes puts excessive strain on the knee. Rounding your lower back to get deeper indicates a lack of hip mobility.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "10 per leg",
+    "duration": null,
+    "distance": null,
+    "notes": "This movement builds frontal plane stability, which is often neglected. If you cannot reach full depth (thigh parallel to the floor), only go as low as you can with good form."
   }
 ]

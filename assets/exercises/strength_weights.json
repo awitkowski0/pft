@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "turkish_get_up",
+    "name": "Turkish Get-Up",
+    "category": "strength_weights",
+    "progressionTier": 3,
+    "instructions": "Lie on your back, holding a kettlebell or dumbbell straight up in your right hand, with your right knee bent and foot flat on the floor. Your left arm and leg should be extended at a 45-degree angle. Roll onto your left elbow, then push up to your left hand. Sweep your left leg behind you into a kneeling position. Square your torso, then stand up completely. Reverse the exact sequence to return to the floor. Keep your eyes on the weight the entire time.",
+    "feelRight": "You should feel your entire body working as a synchronized unit. Your core will brace heavily, and your shoulder stabilizers will work constantly to keep the weight balanced overhead.",
+    "feelWrong": "Taking your eyes off the weight or rushing the transitions can lead to losing balance and dropping the load. Failing to lock out the working arm at any point compromises shoulder stability.",
+    "restTime": "90-120 seconds",
+    "sets": "3",
+    "reps": "3 per side",
+    "duration": null,
+    "distance": null,
+    "notes": "Master the movement with no weight (balancing a shoe on your fist) before adding load. This exercise is unparalleled for developing shoulder stability, core strength, and total-body coordination."
   }
 ]
