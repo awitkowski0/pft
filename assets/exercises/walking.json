@@ -103,5 +103,20 @@
     "duration": "30-60 minutes",
     "distance": "2-4 miles",
     "notes": "Start with a lighter weight (10-15 lbs) and gradually increase as your strength and conditioning improve. Wear supportive footwear, and consider a pack with a hip belt to transfer some load off the shoulders."
+  },
+  {
+    "exerciseId": "backward_walking",
+    "name": "Backward Walking",
+    "category": "walking",
+    "progressionTier": 1,
+    "instructions": "Find a clear, safe, and even path. Begin walking backward slowly, reaching back with your toes and rolling through the foot to the heel. Keep your posture upright and glance over your shoulder occasionally to ensure the path is clear.",
+    "feelRight": "Increased engagement in your quadriceps, calves, and improved balance awareness.",
+    "feelWrong": "Leaning too far backward or rushing the pace can lead to loss of balance and falls.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "10 minutes",
+    "duration": "10 minutes",
+    "distance": null,
+    "notes": "Excellent for knee rehabilitation (specifically the VMO) and improving proprioception. Best done on a treadmill at a slow speed or an open track."
   }
 ]

@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "cable_bicep_curl",
+    "name": "Cable Bicep Curl",
+    "category": "strength_machine",
+    "progressionTier": 1,
+    "instructions": "Attach a straight bar to the low pulley of a cable machine. Stand facing the machine, grasp the bar with an underhand grip, and keep your elbows tucked at your sides. Curl the bar upward toward your shoulders, squeezing your biceps at the top, then slowly lower it back down.",
+    "feelRight": "A consistent, constant tension on your biceps throughout the entire range of motion.",
+    "feelWrong": "Using momentum, leaning back, or letting your elbows drift forward shifts the load away from the biceps.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "12",
+    "duration": null,
+    "distance": null,
+    "notes": "Pause for a second at the top of the curl to maximize the contraction."
   }
 ]

@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "elliptical_machine",
+    "name": "Elliptical Machine",
+    "category": "endurance",
+    "progressionTier": 0,
+    "instructions": "Step onto the pedals and grasp the moving handles. Begin pedaling forward in a smooth, continuous motion, simultaneously pushing and pulling the handles. Keep your core engaged and your posture upright.",
+    "feelRight": "A low-impact, fluid motion that elevates your heart rate while engaging your legs, glutes, and arms.",
+    "feelWrong": "Leaning heavily on the console or locking your knees places strain on your joints and reduces the cardiovascular benefit.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "1 round",
+    "duration": "20 minutes",
+    "distance": null,
+    "notes": "Adjust the resistance and incline to increase or decrease the intensity."
   }
 ]
