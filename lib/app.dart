@@ -10,7 +10,7 @@ PageRoute _buildRoute(Widget page, RouteSettings settings,
     {bool noTransition = false}) {
   if (noTransition) {
     return PageRouteBuilder(
-      pageBuilder: (_, _, _) => page,
+      pageBuilder: (context, animation, secondaryAnimation) => page,
       settings: settings,
       transitionDuration: Duration.zero,
       reverseTransitionDuration: Duration.zero,
