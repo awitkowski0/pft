@@ -163,5 +163,20 @@
     "duration": "30-60 seconds",
     "distance": null,
     "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
+  },
+  {
+    "exerciseId": "overhead_triceps_stretch",
+    "name": "Overhead Triceps Stretch",
+    "category": "cooldown",
+    "progressionTier": 0,
+    "instructions": "Stand or sit up straight. Raise one arm overhead, bend at the elbow, and reach your hand down the middle of your back. Use your opposite hand to gently push the bent elbow backward and downward. Hold the stretch, then switch sides.",
+    "feelRight": "You should feel a stretch down the back of your arm (triceps) and slightly into your lats.",
+    "feelWrong": "Forcing the elbow too far can cause shoulder impingement or pain.",
+    "restTime": "None — hold and breathe",
+    "sets": "1",
+    "reps": "30-45 seconds per side",
+    "duration": null,
+    "distance": null,
+    "notes": "Keep your neck relaxed and avoid pushing your head forward."
   }
 ]

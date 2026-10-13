@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "skierg",
+    "name": "SkiErg",
+    "category": "endurance",
+    "progressionTier": 1,
+    "instructions": "Stand facing the SkiErg with feet shoulder-width apart. Grab the handles and pull them down past your hips, hinging at the hips and slightly bending your knees. Extend your hips and bring your arms back up to the starting position in a fluid motion.",
+    "feelRight": "You should feel a coordinated effort between your lats, triceps, core, and glutes, resembling a Nordic skiing motion.",
+    "feelWrong": "Using only your arms without engaging your core and hips will quickly fatigue the upper body and reduce power output.",
+    "restTime": "90 seconds",
+    "sets": "4",
+    "reps": "None",
+    "duration": "5 minutes",
+    "distance": "1000m",
+    "notes": "Focus on a powerful downward pull and a smooth, relaxed upward recovery."
   }
 ]
