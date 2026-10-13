@@ -103,5 +103,20 @@
     "duration": "30-60 minutes",
     "distance": "2-4 miles",
     "notes": "Start with a lighter weight (10-15 lbs) and gradually increase as your strength and conditioning improve. Wear supportive footwear, and consider a pack with a hip belt to transfer some load off the shoulders."
+  },
+  {
+    "exerciseId": "retro_walking",
+    "name": "Retro Walking",
+    "category": "walking",
+    "progressionTier": 1,
+    "instructions": "Find a clear, safe path. Walk backward by stepping back and landing on your toes, then rolling through to the heel. Keep your posture upright and core engaged. Use a treadmill on a low speed if a safe outdoor path is unavailable.",
+    "feelRight": "You should feel your quadriceps working harder than during forward walking, with a unique challenge to your balance and coordination.",
+    "feelWrong": "Leaning too far backward or taking overly long strides can cause instability and strain.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "None",
+    "duration": "10-15 minutes",
+    "distance": null,
+    "notes": "Excellent for knee rehabilitation and strengthening the VMO muscle. Start slow."
   }
 ]
