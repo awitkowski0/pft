@@ -103,5 +103,20 @@
     "duration": "30-60 minutes",
     "distance": "2-4 miles",
     "notes": "Start with a lighter weight (10-15 lbs) and gradually increase as your strength and conditioning improve. Wear supportive footwear, and consider a pack with a hip belt to transfer some load off the shoulders."
+  },
+  {
+    "exerciseId": "nordic_walking",
+    "name": "Nordic Walking",
+    "category": "walking",
+    "progressionTier": 1,
+    "instructions": "Walk at a brisk pace while using specially designed walking poles. Plant the pole at an angle, pushing back with your arms to propel yourself forward. The arm movement should naturally follow your walking stride.",
+    "feelRight": "You should feel your upper body (arms, shoulders, core) engaging along with your legs, turning the walk into a full-body workout. Your heart rate will be higher than regular walking at the same pace.",
+    "feelWrong": "Holding the poles too tightly or planting them straight up and down instead of at an angle reduces the effectiveness.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": "None",
+    "duration": "30-45 minutes",
+    "distance": null,
+    "notes": "Ensure you have the correct length poles for your height."
   }
 ]

@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "bulgarian_split_squat_dumbbell",
+    "name": "Dumbbell Bulgarian Split Squat",
+    "category": "strength_weights",
+    "progressionTier": 2,
+    "instructions": "Stand a couple of feet in front of a bench, holding a dumbbell in each hand. Rest the top of your rear foot on the bench. Lower your body until your front thigh is parallel to the floor, keeping your torso upright and your front knee tracking over your toes. Push back up to the starting position.",
+    "feelRight": "You should feel the load primarily in the quad and glute of the front leg. It requires balance and stability.",
+    "feelWrong": "Letting the front knee cave inward. Leaning too far forward can shift the focus away from the legs and strain the lower back.",
+    "restTime": "90 seconds",
+    "sets": "3 per leg",
+    "reps": "8-10",
+    "duration": null,
+    "distance": null,
+    "notes": "Adjust the distance of your front foot to target either more quads (closer) or more glutes (further)."
   }
 ]
