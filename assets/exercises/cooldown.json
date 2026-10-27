@@ -163,5 +163,20 @@
     "duration": "30-60 seconds",
     "distance": null,
     "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
+  },
+  {
+    "exerciseId": "thread_the_needle",
+    "name": "Thread the Needle",
+    "category": "cooldown",
+    "progressionTier": 0,
+    "instructions": "Start in a tabletop position on your hands and knees. Reach your right arm underneath your body and across to the left, lowering your right shoulder and the side of your head to the floor. Keep your hips high and square. You can extend your left arm forward or wrap it behind your back. Hold the stretch, then slowly return to the starting position and repeat on the other side.",
+    "feelRight": "You should feel a deep rotational stretch in your mid-back, between your shoulder blades, and the back of the reaching shoulder.",
+    "feelWrong": "Collapsing your hips down to your heels reduces the thoracic rotation. Avoid straining your neck; the weight should rest primarily on your shoulder.",
+    "restTime": "None — hold and breathe",
+    "sets": "1",
+    "reps": "30 second hold each side",
+    "duration": null,
+    "distance": null,
+    "notes": "Breathe deeply into the stretch, allowing your ribcage to expand on each inhale."
   }
 ]
