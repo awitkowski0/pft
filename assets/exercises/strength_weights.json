@@ -268,5 +268,20 @@
     "duration": null,
     "distance": null,
     "notes": "Start with light weights to master the form and ensure elbow comfort. Lowering the dumbbells slightly behind the head rather than directly beside the ears can increase the stretch on the long head of the triceps."
+  },
+  {
+    "exerciseId": "dumbbell_single_leg_rdl",
+    "name": "Dumbbell Single-Leg RDL",
+    "category": "strength_weights",
+    "progressionTier": 2,
+    "instructions": "Hold a dumbbell in one hand and stand on the opposite leg (e.g., hold in the right hand, stand on the left leg). Keep a slight bend in your standing knee. Hinge at your hips, extending your free leg straight back behind you for balance, and lower the dumbbell toward the floor until your torso is parallel to the ground. Drive through the heel of your standing leg to return to an upright position.",
+    "feelRight": "You should feel a deep stretch and contraction in the hamstring and glute of the standing leg, while your core works hard to maintain balance and prevent rotation.",
+    "feelWrong": "Opening your hips to the side instead of keeping them square to the floor reduces the effectiveness. Rounding your lower back to reach further down places stress on your spine.",
+    "restTime": "60-90 seconds",
+    "sets": "3",
+    "reps": "8-10 per leg",
+    "duration": null,
+    "distance": null,
+    "notes": "If balance is a struggle, you can lightly touch a wall or bench with your free hand. Focus on pushing your hips back rather than just bending over."
   }
 ]
