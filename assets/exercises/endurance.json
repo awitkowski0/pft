@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "swimming_freestyle",
+    "name": "Swimming (Freestyle)",
+    "category": "endurance",
+    "progressionTier": 2,
+    "instructions": "Swim continuously using the freestyle stroke. Focus on reaching forward with each pull, maintaining a steady flutter kick, and breathing rhythmically on your preferred side or bilaterally.",
+    "feelRight": "You should feel a continuous rhythmic effort across your whole body, particularly in your lats and core. Your breathing should be controlled.",
+    "feelWrong": "Lifting your head too high to breathe or crossing your arms past the centerline of your body creates drag and reduces efficiency.",
+    "restTime": "None",
+    "sets": "1",
+    "reps": null,
+    "duration": "20 minutes",
+    "distance": null,
+    "notes": "Pace yourself to maintain a consistent speed. Focus on smooth, long strokes rather than rapid, choppy movements."
   }
 ]

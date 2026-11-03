@@ -163,5 +163,20 @@
     "duration": "30-60 seconds",
     "distance": null,
     "notes": "To deepen the stretch, reach the arm on the kneeling side up toward the ceiling and slightly over to the opposite side. Place a pad or folded mat under the kneeling knee for comfort."
+  },
+  {
+    "exerciseId": "supine_hamstring_stretch",
+    "name": "Supine Hamstring Stretch",
+    "category": "cooldown",
+    "progressionTier": 1,
+    "instructions": "Lie flat on your back. Keep one leg straight on the floor and lift the other leg towards the ceiling. Use your hands or a towel around your foot to gently pull the lifted leg closer to your chest until you feel a stretch in the back of your thigh. Keep the knee of the lifted leg as straight as possible.",
+    "feelRight": "You should feel a comfortable, gentle stretch along the back of your thigh and possibly into your calf.",
+    "feelWrong": "Bouncing or pulling the leg aggressively can cause micro-tears in the muscle. Bending the knee too much reduces the stretch on the hamstring.",
+    "restTime": "None",
+    "sets": "2",
+    "reps": null,
+    "duration": "30 seconds per leg",
+    "distance": null,
+    "notes": "Breathe deeply and try to relax further into the stretch with each exhale."
   }
 ]
