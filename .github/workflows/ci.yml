@@ -16,6 +16,8 @@ jobs:
 
           channel: 'stable'
       - run: flutter pub get
+      - run: touch .env
+      - run: flutter pub run build_runner build --delete-conflicting-outputs
       - run: flutter analyze
 
   test:
@@ -27,4 +29,6 @@ jobs:
 
           channel: 'stable'
       - run: flutter pub get
+      - run: touch .env
+      - run: flutter pub run build_runner build --delete-conflicting-outputs
       - run: flutter test
