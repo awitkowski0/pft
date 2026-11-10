@@ -208,5 +208,20 @@
     "duration": null,
     "distance": null,
     "notes": "Move slowly and deliberately, focusing on the quality of the stretch at each end of the movement. If the Cobra pose causes lower back pain, keep your hips slightly higher or rest on your forearms instead of your hands."
+  },
+  {
+    "exerciseId": "controlled_articular_rotations_shoulders",
+    "name": "Shoulder CARs (Controlled Articular Rotations)",
+    "category": "mobility",
+    "progressionTier": 1,
+    "instructions": "Stand tall, bracing your core. With one arm straight and palm facing forward, slowly raise it in front of you until reaching overhead. Then, internally rotate the arm (turn the thumb down and back) as you reach backward and complete a full circle. Reverse the motion to return to start. Perform the movement slowly with maximum tension.",
+    "feelRight": "You should feel the muscles around your shoulder joint working to maintain the full range of motion. It should feel like a deep, challenging exploration of your joint's limits.",
+    "feelWrong": "Avoid rotating your torso or letting your ribs flare to compensate for lack of shoulder mobility. Only move the shoulder joint.",
+    "restTime": "15 seconds between sides",
+    "sets": "2",
+    "reps": "3 rotations each direction per arm",
+    "duration": null,
+    "distance": null,
+    "notes": "Irradiate tension throughout your body to isolate the shoulder joint effectively."
   }
 ]
