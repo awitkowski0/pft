@@ -103,5 +103,20 @@
     "duration": "30-60 minutes",
     "distance": "2-4 miles",
     "notes": "Start with a lighter weight (10-15 lbs) and gradually increase as your strength and conditioning improve. Wear supportive footwear, and consider a pack with a hip belt to transfer some load off the shoulders."
+  },
+  {
+    "exerciseId": "farmers_walk",
+    "name": "Farmer's Walk",
+    "category": "walking",
+    "progressionTier": 2,
+    "instructions": "Pick up a pair of heavy dumbbells or kettlebells, holding them by your sides. Stand tall, brace your core, pull your shoulders back and down. Walk forward with short, purposeful steps, maintaining a perfectly upright posture for the prescribed distance or time.",
+    "feelRight": "Your grip, core, and traps should be working intensely. It should feel like a full-body stabilization challenge.",
+    "feelWrong": "Do not let the weights pull your shoulders forward or swing wildly. Avoid leaning to one side or the other.",
+    "restTime": "90 seconds",
+    "sets": "4",
+    "reps": "Walk 30 seconds",
+    "duration": "30 seconds",
+    "distance": "40 meters",
+    "notes": "An excellent functional exercise for grip strength, core stability, and overall conditioning."
   }
 ]

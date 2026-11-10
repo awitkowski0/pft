@@ -133,5 +133,20 @@
     "duration": "30 seconds per set",
     "distance": null,
     "notes": "Experiment with different motions such as alternating waves, simultaneous slams, or lateral whips to target different muscle groups. Ensure you maintain tension on the ropes by standing far enough back from the anchor point."
+  },
+  {
+    "exerciseId": "kettlebell_swings",
+    "name": "Kettlebell Swings",
+    "category": "endurance",
+    "progressionTier": 2,
+    "instructions": "Stand with feet shoulder-width apart, holding a kettlebell with both hands in front of you. Hinge at the hips, keeping your back straight and a slight bend in your knees, letting the bell swing between your legs. Explosively thrust your hips forward and squeeze your glutes to swing the kettlebell up to chest height. Let the bell fall back naturally to repeat the motion.",
+    "feelRight": "You should feel a powerful contraction in your hamstrings and glutes. Your core should be braced, and your breath should sync with the movement (exhale on the upswing).",
+    "feelWrong": "This is a hip hinge, not a squat. Avoid lifting the kettlebell with your arms or shoulders; the power must come from your hips.",
+    "restTime": "45 seconds",
+    "sets": "4",
+    "reps": "20",
+    "duration": null,
+    "distance": null,
+    "notes": "Great for building cardiovascular endurance while targeting the posterior chain."
   }
 ]

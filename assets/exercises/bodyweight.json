@@ -223,5 +223,20 @@
     "duration": null,
     "distance": null,
     "notes": "To emphasize the glutes, lean your torso slightly forward. For a deeper quad focus, keep your torso strictly upright. You can add dumbbells in each hand once bodyweight becomes too easy."
+  },
+  {
+    "exerciseId": "bird_dog",
+    "name": "Bird Dog",
+    "category": "bodyweight",
+    "progressionTier": 1,
+    "instructions": "Start on all fours with hands under shoulders and knees under hips. Keep your spine neutral. Simultaneously extend your right arm forward and left leg backward until both are parallel to the floor. Hold for a brief pause, then slowly return to the starting position. Alternate sides. Focus on keeping your core engaged and minimizing torso rotation.",
+    "feelRight": "You should feel your core stabilizing your body and your glutes and lower back muscles engaging as you lift your limbs. The movement should feel controlled and steady.",
+    "feelWrong": "Avoid arching your lower back or letting your hips twist. The goal is stability, not maximum height of the limbs.",
+    "restTime": "30 seconds",
+    "sets": "3",
+    "reps": "10 per side",
+    "duration": null,
+    "distance": null,
+    "notes": "Imagine balancing a glass of water on your lower back. If you struggle with balance, start by only moving one limb at a time."
   }
 ]

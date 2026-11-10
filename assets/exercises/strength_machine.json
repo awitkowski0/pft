@@ -193,5 +193,20 @@
     "duration": null,
     "distance": null,
     "notes": "Keep your arms relatively straight with a slight bend in the elbows throughout the motion. You can also perform this exercise from low-to-high or horizontally to target the core from different angles."
+  },
+  {
+    "exerciseId": "machine_reverse_fly",
+    "name": "Machine Reverse Fly",
+    "category": "strength",
+    "progressionTier": 1,
+    "instructions": "Adjust the seat so the handles are at shoulder level. Sit facing the pad with your chest against it. Grasp the handles and keeping a slight bend in your elbows, pull the handles back and apart until your arms are in line with your body. Squeeze your shoulder blades together at the peak of the movement, then return with control.",
+    "feelRight": "You should feel a strong contraction in your rear deltoids and rhomboids (upper back).",
+    "feelWrong": "Avoid shrugging your shoulders up to your ears or leaning back aggressively. Keep your chest planted on the pad.",
+    "restTime": "60 seconds",
+    "sets": "3",
+    "reps": "12",
+    "duration": null,
+    "distance": null,
+    "notes": "Crucial for postural health and balancing out heavy pushing movements."
   }
 ]
